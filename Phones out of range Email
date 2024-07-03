@@ -1,12 +1,17 @@
 Here are the directions to reconnect the phone to the base. 
 
-1)	We first need to locate the transmitter box (base), its usually inconveniently high up on a wall. Its about 5 inches tall, 4 inches deep, and 1 inch wide. I have included a picture of what it looks like below.
+1)	First need to locate the transmitter box (base), its usually inconveniently high up on a wall. Its about 5 inches tall, 4 inches deep, and 1 inch wide. A picture of the transmitter is included below.
 2)	Press and hold the silver button on the front of the transmitter box for 4 seconds, once you release the button, both lights should begin blinking
-3)	Go to the affected phone and enter the menu by pressing the center button (Marked as Menu/Select)
-4)	Press down until you get to “User Settings”, it should be the second option from the bottom. Press the Menu/Select button to enter the User Settings menu
-5)	Press down until you get to “Registration”, it should be the bottom option. Press the Menu/Select button to enter registration
-6)	Then Select “This Handset” by pressing the Menu/Select button
+3)	On the affected phone enter the menu by pressing the center button (Marked as Menu/Select)
+4)	Press down until you get to “User Settings”, the second to last option. Press the Menu/Select button to enter the User Settings menu
+5)	Press down until you get to “Registration”, the last option. Press the Menu/Select button to enter registration
+6)	Select “This Handset” by pressing the Menu/Select button
 7)	The Phone should then prompt you with “Press and Hold the Handset Locator key at base for 4 seconds” and “Then, press the #key at the Handset”
-8)	Press the # key and the phones should then say “registering please wait” for several second before making a small beeping noise.
-9)	After that, the handset should be reconnected to the phone system
+8)	Press the # key. The phones will display “registering please wait” for several second before making a small beeping noise.
+9)	The handset should now be reconnected to the phone system
 10)	This process might fail if the lights stop blinking on the transmitter box (base) before pressing # on the phone. If that’s the case, just try again. The lights usually blink for about 30-40 seconds after pressing the silver button.
+
+
+
+
+<!--- This is an email I wrote to help end users reconnect their phones to the base station. The phones are unable to pair to a base station while on a call, so a clear, easy to follow instruction set was needed. I wrote this after testing the process myself with the same type of device that was deployed to the customers, it has been in use for several years now. --->
