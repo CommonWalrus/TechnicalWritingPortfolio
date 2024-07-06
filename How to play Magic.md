@@ -8,7 +8,10 @@ Magic divides its cards into five colors of mana, white, blue, black, red, and g
 
 White
 : White magic is all about community, morality, and order. 
+
 `The needs of the many outweigh the needs of the few, or the one`
+
 Blue
 : Blue magic focuses on logic, technology, and preparation.
+
 Black
