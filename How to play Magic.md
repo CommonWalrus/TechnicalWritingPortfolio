@@ -56,4 +56,6 @@ TODO:
 - Get smaller images of cards
 - Find logical place to include concept of Mana Value and casting spells
 - Tapping permanents
+- remove battles
+- rephrase red's struggle
 --->
