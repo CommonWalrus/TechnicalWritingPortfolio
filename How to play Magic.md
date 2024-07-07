@@ -24,11 +24,27 @@ Green magic embodies nature, growth, and change. Green allies itselves with elve
 ## How to play Magic
 
 ### Parts of a card
-Cards in Magic contain a lot of information! Look at the card below
+Cards in Magic contain a lot of information! Look at the card below:
+
 ![Lightning Bolt](https://cards.scryfall.io/large/front/f/2/f29ba16f-c8fb-42fe-aabf-87089cb214a7.jpg?1673147852)
 
-The top line of a card contains its name, in this case Lightning Bolt, and its mana cost, the red symbol to the right. Below the art is the type line, where the cards types and any subtypes are specified. This card is an instant. The large box just below the type line is the cards rules text. Lightning Bolt's rules text is very strightforward, it will deal 3 damage to any target. Lets take a look at another card
+The top line of a card contains its name, in this case Lightning Bolt, and its mana cost, the red symbol to the right. Below the art is the type line, where the cards types and any subtypes are specified. Lightning Bolt is an instant. The large box just below the type line is the cards rules text. Lightning Bolt's rules text is strightforward, it will deal 3 damage to any target. Lets take a look at another card:
+
 
 ![Serra Angel](https://cards.scryfall.io/large/front/3/5/350c41af-18e5-4ce8-b3b1-64baa85b1acb.jpg?1562197862)
 
-This is Serra Angel. This card is a creature and has the subtype of angel. Serra Angel has two abilities, flying and vigilence. Finally, in the bottom right of the card are its combat statistics. The first number is its power, 4, and the second is its toughness, also 4.
+Serra Angel is a creature and has the subtype of angel. Serra Angel has two abilities, flying and vigilence. Finally, in the bottom right of the card are its combat statistics. The first number is its power, 4, and the second is its toughness, also 4. This means that whenever Serra Angel is in combat it will deal 4 damage, and it can take 4 damage over the course of a turn before it is destroyed.
+
+### Types of cards
+
+There are 8 types of cards you can expect to see in a typical game of Magic:
+- Lands
+- Creatures
+- Artifacts
+- Enchantments
+- Planeswalkers
+- Battles
+- Instants
+- Sorceries
+
+#### Lands
