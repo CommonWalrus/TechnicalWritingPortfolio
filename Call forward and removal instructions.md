@@ -6,7 +6,7 @@ How to add or remove call forwards in Coredial (Select Medical and most other cu
 
 	b. To unforward a number, change "Route To" to match the "If Holiday" field directly above it
 
-	    i. Often, this will be Extension 200, Extension 201, or Group Main
+	 i. Often, this will be Extension 200, Extension 201, or Group Main
 5. Press save, the changes will normally occur within the next 5 minutes
 
 How to add or remove call forwards in Bandwidth (Concentra and USHW)
