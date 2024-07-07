@@ -7,19 +7,19 @@ Magic is a collectable card game in which two or more players try to defeat each
 Magic divides its cards into five colors of mana, white, blue, black, red, and green. Each color represents a different ethos and way to play the game.
 
 ### White
-White magic is all about community, selflessness, and order. Some of white's creatures are soldiers, knights, clerics, and angels. Its spells bolster its creatures, remove unfair impediemnts, or equalize the playing field. White can struggle with drawing cards and the small size of its creatures.
+White magic is all about community, selflessness, and order. Some of white's creatures are soldiers, knights, clerics, and angels. Its spells bolster its creatures, remove impediemnts, or equalize the playing field. White can struggle with drawing cards and the small size of its creatures.
 
 ### Blue
 Blue magic focuses on logic, technology, and preparation. Blue summons wizards, sphinxs, merfolk, and deepsea creatures to help in battle. Its spells are proactive and flexable, focused around stopping or stalling problems before they get out of control. Blue can struggle with stopping problems that are already underway.
 
 ### Black
-Black magic is ruthless, efficient, and feels the ends always justify the means. Black consorts with warlocks, vampires, zombies, and demons. Its spells are cutthroat, sometimes even harming yourself for powerful effects. Black struggles against threats it cannot destroy outright.
+Black magic is ruthless, efficient, and feels the ends always justify the means. Black consorts with warlocks, vampires, zombies, and demons. Its spells are cutthroat, sometimes even harming yourself for powerful effects. Black can struggle against threats it cannot destroy outright.
 
 ### Red
-Red magic is passionate, impulsive, and fiery. Red fights alongside goblins, shamans, warriors and dragons. Its spell excel at dealing damage and breaking things. Red stuggles with games that go long.
+Red magic is passionate, impulsive, and fiery. Red fights alongside goblins, shamans, warriors and dragons. Its spells excel at dealing damage and breaking things. Red can stuggle with opponents who can stall their assaults.
 
 ### Green
-Green magic embodies nature, growth, and change. Green allies itselves with elves, druids, treefolk, and hydras. Its spells allow it to play imposing threats early and destroy that which is unnatural. Green struggles when it is unable to keep its large creatures around.
+Green magic embodies nature, growth, and change. Green allies itselves with elves, druids, treefolk, and hydras. Its spells allow it to play imposing threats early and destroy that which is unnatural. Green can struggle when it's unable to keep its large creatures around.
 
 ## How to play Magic
 
@@ -56,14 +56,14 @@ Lands are the backbone for any deck of Magic. As discussed above, cards cost man
 
 ![The five basic lands](https://52f4e29a8321344e30ae-0f55c9129972ac85d6b1f4e703468e6b.ssl.cf2.rackcdn.com/products/pictures/109040.jpg)
 
-In addition to basic lands, a variety of nonbasic lands are available for use as well. These can sometimes produce more than one color of mana, or have additional abilities. 
+In addition to basic lands, a variety of nonbasic lands are available for use as well. These can sometimes produce more than one color of mana, or have additional abilities. For example, some lands can even become creatures temporarily! 
+
+#### Creatures
+Creatures do a lot of work in defeating your opponent. Creatures can attack your enemies or block incoming threats. <!--- Whenever you summon a creature, it cannot attack that turn. When you attack with creatures, you can choose which creatures to attack opponents with, and then tap them to show they are attacking. The opponent then gets to choose how, or if, their untapped creatures block yours. --->
 
 
 <!--- 
 TODO: 
 - Get smaller images of cards
-
-- Tapping permanents
-- remove battles
 - rephrase red's struggle
 --->
