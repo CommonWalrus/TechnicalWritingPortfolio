@@ -24,4 +24,4 @@ Green magic embodies nature, growth, and change. Green allies itselves with elve
 ## How to play Magic
 
 ### Parts of a card
-![Shivan Dragon](https://cards.scryfall.io/front/0/d/0dcdd2db-1a4b-48dd-94cf-bd719ff40da9.jpg?1562543722)
+![Shivan Dragon](https://cards.scryfall.io/large/front/0/d/0dcdd2db-1a4b-48dd-94cf-bd719ff40da9.jpg?1562543722)
