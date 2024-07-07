@@ -48,3 +48,12 @@ There are 8 types of cards you can expect to see in a typical game of Magic:
 - Sorceries
 
 #### Lands
+
+
+
+<!--- 
+TODO: 
+- Get smaller images of cards
+- Find logical place to include concept of Mana Value and casting spells
+- Tapping permanents
+--->
