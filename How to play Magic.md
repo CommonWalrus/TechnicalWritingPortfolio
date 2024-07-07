@@ -19,3 +19,9 @@ Black magic is ruthless, efficient, and feels the ends always justify the means.
 Red magic is passionate, impulsive, and fiery. Red fights alongside goblins, shamans, warriors and dragons. Its spell excel at dealing damage and breaking things. Red stuggles with games that go long.
 
 ### Green
+Green magic embodies nature, growth, and change. Green allies itselves with elves, druids, treefolk, and hydras. Its spells allow it to play imposing threats early and destroy that which is unnatural. Green struggles when it is unable to keep its large creatures around.
+
+## How to play Magic
+
+### Parts of a card
+![Shivan Dragon](https://cards.scryfall.io/large/front/0/d/0dcdd2db-1a4b-48dd-94cf-bd719ff40da9.jpg?1562543722)
