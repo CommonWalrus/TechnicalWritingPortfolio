@@ -53,7 +53,9 @@ Lands are the backbone for any deck of Magic. As discussed above, cards cost man
 - Swamps, which tap for black mana
 - Mountains, which tap for red mana
 - Forests, which tap for green mana
+
 ![The five basic lands](https://52f4e29a8321344e30ae-0f55c9129972ac85d6b1f4e703468e6b.ssl.cf2.rackcdn.com/products/pictures/109040.jpg)
+
 In addition to basic lands, a variety of nonbasic lands are available for use as well. These can sometimes produce more than one color of mana, or have additional abilities. 
 
 
