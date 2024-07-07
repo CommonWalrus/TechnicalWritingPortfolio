@@ -1,5 +1,5 @@
 # Magic: the Gathering
----
+
 ## What is Magic?
 Magic is a collectable card game in which two or more players try to defeat each other by summoning fearsome creatures and casting powerful spells. Magic is a very flexible game system, allowing for endless possiblities of play. With over 27,000 cards, a wealth of customization and self expression is available to you!
 
