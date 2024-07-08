@@ -43,11 +43,12 @@ There are 7 types of cards you can expect to see in a typical game of Magic:
 - Artifacts
 - Enchantments
 - Planeswalkers
-- Instants
 - Sorceries
+- Instants
+
 
 #### Lands
-Lands are the backbone for any deck of Magic. As discussed above, cards cost mana to cast. Lands can be used to create mana to pay for spells. "Tapping" a usually land creates 1 mana, but the type of mana can be different depending on the land. There are 5 basic land types:
+Lands are the backbone for any deck of Magic. As discussed above, cards cost mana to cast. Lands can be used to create mana to pay for spells. "Tapping" a land usually creates 1 mana, but the type of mana can be different depending on the land. There are 5 basic land types:
 - Plains, which tap for white mana
 - Islands, which tap for blue mana
 - Swamps, which tap for black mana
@@ -59,11 +60,33 @@ Lands are the backbone for any deck of Magic. As discussed above, cards cost man
 In addition to basic lands, a variety of nonbasic lands are available for use as well. These can sometimes produce more than one color of mana, or have additional abilities. For example, some lands can even become creatures temporarily! 
 
 #### Creatures
-Creatures do a lot of work in defeating your opponent. Creatures can attack your enemies or block incoming threats. <!--- Whenever you summon a creature, it cannot attack that turn. When you attack with creatures, you can choose which creatures to attack opponents with, and then tap them to show they are attacking. The opponent then gets to choose how, or if, their untapped creatures block yours. --->
+Creatures do a lot of work in defeating your opponent. They're your forces with which you can do battle, attacking your enemies or defending you from incoming threats. Whenever you summon a creature, it has "Summoning Sickness" until your next turn. Creatures cannot attack or activate abilities during this time. However, they can still block, allowing them to protect you from opposing creatures.
 
+![Shivan Dragon](https://cards.scryfall.io/large/front/d/3/d389b8db-5866-4146-a379-f24b6463622b.jpg?1562304398)
+
+#### Artifacts
+Artifacts can be enigmatic relics, fanciful inventions, powerful weapons, or anything in between. Artifacts can do many things, but usually they will either have an ability that applies constantly or an ability that you can activate. Sometimes they have both! Artifacts can also be creatures, like a golem given life. 
+
+#### Enchantments
+Enchantments are magic that seeps into something, be that a creature or the world at large. Some enchantments can have sweeping effects, like making your opponents unable to takke you. Others, like auras, a common enchantment subtype, can enhance and augment creatures to new heights of strength. 
+
+#### Planeswalkers
+Planeswalkers are allies you can summon to assist you in battle. Once per turn, they can activate one of their abilities, which can be anything from mundane to game winning. They can be attacked by your opponents as though they were a player; defending them will give you more time to activate their more powerful abilities!
+
+#### Sorceries
+Sorceries are spells you can cast during your turn. They can do nearly anything in the game, with effects as varied as drawing cards, dealing damage, or reanimating the dead.
+
+#### Instants
+Instants are very similar to sorceries, but they can be played at anytime. Instants can even counter another spell, stopping it from ever happening!
+
+### Parts of a turn
+
+### Deck construction and game formats
 
 <!--- 
 TODO: 
 - Get smaller images of cards
+- find where to add more rules
+- reconsider where "Tapping" is placed
 - rephrase red's struggle
 --->
