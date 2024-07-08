@@ -94,4 +94,5 @@ TODO:
 - toughness <0 dies / how creatures die
 - How planeswalkers work
 - clarify summoning sickness, maybe its own section? 
+- add mana symbols to colors
 --->
