@@ -89,4 +89,9 @@ TODO:
 - find where to add more rules
 - reconsider where "Tapping" is placed
 - rephrase red's struggle
+- add power/toughness modifications to creatures
+- add example cards for each type
+- toughness <0 dies / how creatures die
+- How planeswalkers work
+- clarify summoning sickness, maybe its own section? 
 --->
