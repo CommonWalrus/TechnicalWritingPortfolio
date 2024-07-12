@@ -36,7 +36,7 @@ The top line of a card contains its name, in this case Lightning Strike, and its
 
 ![Serra Angel](https://cards.scryfall.io/large/front/3/5/350c41af-18e5-4ce8-b3b1-64baa85b1acb.jpg?1562197862)
 
-Serra Angel cost five mana total, and at least 2 must be white. It is a creature and has the subtype of angel. Serra Angel has two abilities, flying and vigilence. Finally, in the bottom right of the card are its combat statistics. The first number is its power, 4, and the second is its toughness, also 4. This means that whenever Serra Angel is in combat it will deal 4 damage, and it can take 4 damage over the course of a turn before it is destroyed.
+Serra Angel cost five mana total, and at least 2 must be white. It is a creature and has the subtype of angel. Serra Angel has two abilities, flying and vigilence. Finally, in the bottom right of the card are its combat statistics. The first number is its power, 4, and the second is its toughness, also 4. We'll talk about this more in the **creatures** section below.
 
 ### Types of cards
 
@@ -65,6 +65,9 @@ In addition to basic lands, a variety of nonbasic lands are available for use as
 #### Creatures
 Creatures do a lot of work in defeating your opponent. They're your forces with which you can do battle, attacking your enemies or defending you from incoming threats. Whenever you summon a creature, it has **summoning sickness** until your next turn. Creatures cannot attack or tap to activate abilities during this time. However, they can still block, allowing them to protect you from opposing creatures.
 
+##### Power and Toughness
+Creatures have two numbers in the bottom right of their text box, with a / seperating them. The first number is their power, representing how much damage they can do, and the second is their toughness, showing how much damage they can take. Whenever a creature has taken more damage in a turn than their toughness, they die. Other cards can change a creatures power or toughness, and will note that change as +A/+B or -A/-B. If a creature ever has less than 0 toughness due to one of these modifications, it dies. 
+
 ![Shivan Dragon](https://cards.scryfall.io/large/front/d/3/d389b8db-5866-4146-a379-f24b6463622b.jpg?1562304398)
 
 #### Artifacts
@@ -79,6 +82,9 @@ Enchantments are magic that seeps into something, be that a creature or the worl
 
 #### Planeswalkers
 Planeswalkers are allies you can summon to assist you in battle. Once per turn, they can activate one of their abilities, which can be anything from mundane to game winning. They can be attacked by your opponents as though they were a player; defending them will give you more time to activate their more powerful abilities!
+
+##### Loyalty and loyalty abilities
+Planeswalkers enter with a number of **loyalty counters** on them equal to the number in the bottom right of their card. Once per turn, you can activate one of their abilities by adding or subtracting loyalty counters from them. When a planeswalker is dealt damage, they lose loyalty counters equal to the damage dealt to them. If their loyalty reaches 0, they are destroyed.
 
 ![Liliana of the Veil](https://cards.scryfall.io/large/front/a/c/ac506c17-adc8-49c6-9d8d-43db7cb1ec9d.jpg?1562835390)
 
@@ -96,17 +102,31 @@ Instants are very similar to sorceries, but they can be played at anytime. Insta
 
 ### Deck construction and game formats
 
+
+## Important terms
+
+
+
+### Creature keywords
+- Flying
+- Reach
+- Vigilence
+- Haste
+- Trample
+- Deathtouch
+- First Strike
+- Double Strike
+- Lifelink
+- Menace
+- Hexproof
+- Ward
+
 <!--- 
 TODO: 
 - Get smaller images of cards
 - find where to add more rules
-- reconsider where "Tapping" is placed
 - rephrase red's struggle
-- add power/toughness modifications to creatures
-- add example cards for each type
-- toughness <0 dies / how creatures die
-- How planeswalkers work
-- clarify summoning sickness, maybe its own section? 
 - add mana symbols to colors
 - List of important terms
+- Clean up Loyalty abilities
 --->
