@@ -76,7 +76,7 @@ Artifacts can be enigmatic relics, fanciful inventions, powerful weapons, or any
 ![Staff of Domination](https://cards.scryfall.io/large/front/7/9/7980fc3b-71d5-427d-bd42-087256fd2059.jpg?1562877858)
 
 #### Enchantments
-Enchantments are magic that seeps into something, be that a creature or the world at large. Some enchantments can have sweeping effects, like making your opponents unable to takke you. Others, like auras, a common enchantment subtype, can enhance and augment creatures to new heights of strength. 
+Enchantments are magic that seeps into something, be that a creature or the world at large. Some enchantments can have sweeping effects, like making your opponents unable to attack you. Others, like auras, a common enchantment subtype, can enhance and augment creatures to new heights of strength. 
 
 ![Wilderness Reclaimation](https://cards.scryfall.io/large/front/5/4/54af08f7-9c6c-464e-b2f7-2b5803f36481.jpg?1584831336)
 
