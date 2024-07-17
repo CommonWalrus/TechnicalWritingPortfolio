@@ -19,7 +19,7 @@ Black magic is ruthless, efficient, and feels the ends always justify the means.
 Red magic is passionate, impulsive, and fiery. Red fights alongside goblins, shamans, warriors and dragons. Its spells excel at dealing damage and breaking things. Red can stuggle with opponents who can stall their assaults.
 
 ### Green
-Green magic embodies nature, growth, and change. Green allies itselves with elves, druids, treefolk, and hydras. Its spells allow it to play imposing threats early and destroy that which is unnatural. Green can struggle when it's unable to keep its large creatures around.
+Green magic embodies nature, growth, and change. Green allies itself with elves, druids, treefolk, and hydras. Its spells allow it to play imposing threats early and destroy that which is unnatural. Green can struggle when it's unable to keep its large creatures around.
 
 ## How to play Magic
 
