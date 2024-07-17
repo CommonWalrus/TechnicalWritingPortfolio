@@ -36,7 +36,7 @@ The top line of a card contains its name, in this case Lightning Strike, and its
 
 ![Serra Angel](https://cards.scryfall.io/large/front/3/5/350c41af-18e5-4ce8-b3b1-64baa85b1acb.jpg?1562197862)
 
-Serra Angel cost five mana total, and at least 2 must be white. It is a creature and has the subtype of angel. Serra Angel has two abilities, flying and vigilence. Finally, in the bottom right of the card are its combat statistics. The first number is its power, 4, and the second is its toughness, also 4. We'll talk about this more in the **creatures** section below.
+Serra Angel costs five mana total, and at least 2 must be white. It is a creature and has the subtype of angel. Serra Angel has two abilities, flying and vigilence. Finally, in the bottom right of the card are its combat statistics. The first number is its power, 4, and the second is its toughness, also 4. We'll talk about this more in the **creatures** section below.
 
 ### Types of cards
 
@@ -127,7 +127,7 @@ The beginning of combat step is the first time you can take actions during this 
 This step starts with you declaring which creatures are attacking, as well as who or what those creatures are attacking. Each creature can only attack a single opponent or planeswalker an opponent controls. Once attackers are declared, there is another oppertunity for players to cast instants or activate abilities. 
 
 ##### Declare blockers step
-The defending player then declares blockers, assigning their creatures to block incoming attackers. You can assign multiple blockers to a single attacker, however the attacker gets to decide the order in which damage is dealt to them. Once blockers are assigned, there is another window for instant-speed abilies. 
+The defending player then declares blockers, assigning their creatures to block incoming attackers. You can assign multiple blockers to a single attacker, however the attacker gets to decide the order in which damage is dealt to them. Once blockers are assigned, there is another window for instant-speed actions. 
 
 ##### Combat damage step
 
