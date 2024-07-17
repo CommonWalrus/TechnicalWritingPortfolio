@@ -153,7 +153,6 @@ The defending player then declares blockers, assigning their creatures to block 
 - Exile
 - Counters, like +1/+1
 
-
 ### Creature keywords
 - Flying
 - Reach
