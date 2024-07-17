@@ -94,18 +94,64 @@ Sorceries are spells you can cast during your turn. They can do nearly anything 
 ![Day of Judgement](https://cards.scryfall.io/large/front/1/e/1ed43ed8-9490-4433-843f-9020cd3470a1.jpg?1562635091)
 
 #### Instants
-Instants are very similar to sorceries, but they can be played at anytime. Instants can even counter another spell, stopping it from ever happening!
+Instants are very similar to sorceries. However, while other spells can only be played one at a time during your main phase, instants can be played at anytime. Instants can even counter another spell, stopping it from ever happening!
 
 ![Counterspell](https://cards.scryfall.io/large/front/1/9/1920dae4-fb92-4f19-ae4b-eb3276b8dac7.jpg?1628801663)
 
+
 ### Parts of a turn
+A turn of Magic is broken into many parts, called phases and steps. Each of these segments serves a different purpose to allow the game to flow smoothly.
+
+#### Beginning phase
+The beginning phase consists of three steps, untap, upkeep, and draw. 
+
+##### Untap step
+During your untap step, you untap all of your permanents. If a permanent has a stun counter on it, instead remove a stun counter and leave it tapped. Players cannot cast spells or activate abilities during the untap step.
+
+##### Upkeep step
+Your upkeep step is the first time you can take actions in a turn. "At the beginning of your upkeep" abilities happen here. You can respond to those abilities and either player may cast instants or activate other abilties before the step ends. The player who's turn it is has the first opportunity to take any of these actions.
+
+##### Draw step
+This step starts with the active player drawing a card. Then there is a similar window for players to cast spells and activate abilities like in the upkeep step. If you are going first, you skip your first draw step in your first turn.
+
+#### Main phase
+The main phase is where the bulk of spells are cast. You can cast any type of spell during your main phase, as well as play your land for the turn. There is an additonal main phase following the combat phase, where you can play more spells after combat.
+
+#### Combat phase
+The combat phase has five steps, beginning of combat, declare attackers, declare blockers, combat damage, and end of combat
+
+##### Beginning of combat step
+The beginning of combat step is the first time you can take actions during this phase. "At the beginning of combat on your turnp" abilities happen here. Like the upkeep step, you can respond to those abilities and either player may cast instants or activate other abilties before the step ends.
+
+##### Declare attacks step
+This step starts with you declaring which creatures are attacking, as well as who or what those creatures are attacking. Each creature can only attack a single opponent or planeswalker an opponent controls. Once attackers are declared, there is another oppertunity for players to cast instants or activate abilities. 
+
+##### Declare blockers step
+The defending player then declares blockers, assigning their creatures to block incoming attackers. You can assign multiple blockers to a single attacker, however the attacker gets to decide the order in which damage is dealt to them. Once blockers are assigned, there is another window for instant-speed abilies. 
+
+##### Combat damage step
+
+##### End of combat step
+
+#### Ending phase
+
+##### End step
+
+##### Cleanup step
 
 ### Deck construction and game formats
 
+#### Constructed
+
+#### Limited
+
+#### Commander
 
 ## Important terms
+- The Stack
 - Counter
-
+- Exile
+- Counters, like +1/+1
 
 
 ### Creature keywords
@@ -122,6 +168,10 @@ Instants are very similar to sorceries, but they can be played at anytime. Insta
 - Hexproof
 - Ward
 
+
+## Other Notes
+
+
 <!--- 
 TODO: 
 - Get smaller images of cards
@@ -130,4 +180,5 @@ TODO:
 - add mana symbols to colors
 - List of important terms
 - Clean up Loyalty abilities
+- Write up about target audiance 
 --->
