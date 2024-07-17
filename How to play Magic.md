@@ -145,6 +145,10 @@ The defending player then declares blockers, assigning their creatures to block 
 
 #### Limited
 
+##### Draft
+
+##### Sealed
+
 #### Commander
 
 ## Important terms
