@@ -104,6 +104,7 @@ Instants are very similar to sorceries, but they can be played at anytime. Insta
 
 
 ## Important terms
+- Counter
 
 
 
