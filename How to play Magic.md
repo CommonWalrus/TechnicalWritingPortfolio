@@ -118,20 +118,22 @@ This step starts with the active player drawing a card. Then there is a similar 
 The main phase is where the bulk of spells are cast. You can cast any type of spell during your main phase, as well as play your land for the turn. There is an additonal main phase following the combat phase, where you can play more spells after combat.
 
 #### Combat phase
-The combat phase has five steps, beginning of combat, declare attackers, declare blockers, combat damage, and end of combat
+The combat phase has five steps, beginning of combat, declare attackers, declare blockers, combat damage, and end of combat.
 
 ##### Beginning of combat step
 The beginning of combat step is the first time you can take actions during this phase. "At the beginning of combat on your turnp" abilities happen here. Like the upkeep step, you can respond to those abilities and either player may cast instants or activate other abilties before the step ends.
 
 ##### Declare attacks step
-This step starts with you declaring which creatures are attacking, as well as who or what those creatures are attacking. Each creature can only attack a single opponent or planeswalker an opponent controls. Once attackers are declared, there is another oppertunity for players to cast instants or activate abilities. 
+This step starts with you declaring which creatures are attacking, as well as who or what those creatures are attacking. Each creature can only attack a single opponent or planeswalker an opponent controls. Creatures tap to attack unless they have **vigilence.**  Once attackers are declared, there is another oppertunity for players to cast instants or activate abilities. 
 
 ##### Declare blockers step
-The defending player then declares blockers, assigning their creatures to block incoming attackers. You can assign multiple blockers to a single attacker, however the attacker gets to decide the order in which damage is dealt to them. Once blockers are assigned, there is another window for instant-speed actions. 
+The defending player then declares blockers, assigning their creatures to block incoming attackers. You can assign multiple blockers to a single attacker, however the attacker gets to decide the order in which damage is dealt to them. Once blockers are assigned, there is another window for players to react. 
 
 ##### Combat damage step
+Now that you've determinded how everything is attacking and blocking, damage is dealt. Creatures with **first strike** and **double strike** deal their damage first, then damage is dealt by other creatures (and again by creatures with double strike). After each type of damage is dealt, there is another oppertunity for players to react.
 
 ##### End of combat step
+
 
 #### Ending phase
 
