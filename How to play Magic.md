@@ -130,34 +130,52 @@ This step starts with you declaring which creatures are attacking, as well as wh
 The defending player then declares blockers, assigning their creatures to block incoming attackers. You can assign multiple blockers to a single attacker, however the attacker gets to decide the order in which damage is dealt to them. Once blockers are assigned, there is another window for players to react. 
 
 ##### Combat damage step
-Now that you've determinded how everything is attacking and blocking, damage is dealt. Creatures with **first strike** and **double strike** deal their damage first, then damage is dealt by other creatures (and again by creatures with double strike). After each type of damage is dealt, there is another oppertunity for players to react.
+Now that you've determinded how everything is attacking and blocking, damage is dealt. Creatures with **first strike** and **double strike** deal their damage first, then damage is dealt by other creatures (and again by creatures with double strike). After each time damage is dealt, there is another oppertunity for players to react.
 
 ##### End of combat step
-
+This is a final oppertunity for things to happen that requrie a creature to be in combat. There is another chance for reactions from players before this step ends.
 
 #### Ending phase
+Once you are finished with your second main phase, you can pass the turn to the next player. The ending phase has two steps, end and cleanup.
 
 ##### End step
+The end step is the last oppertunity for players to cast instants or activate abilities here before the turn passes to the next player.
 
 ##### Cleanup step
+Players cannot abilities activated or cast spells during the cleanup step, much like the upkeep step. During the cleanup step, damage on creatures wears off, and the player whose turn is ending discards cards to their maximum handsize if they are over that limit.
 
 ### Deck construction and game formats
+Magic functions as a rules system with which you can play a variety of games, much like how a ball can be used for both soccer and basketball. These are called formats, and each one helps to define how the games is played more specifically. Unless otherwise noted, players should start the game with 20 life.
 
 #### Constructed
+In constucted formats, you bring your own deck of at least 60 cards. You are limited to 4 copies of any card, but may use an unlimited number of basic lands. The cards you may use in constructed formats are often defined by when they were printed. Standard encompasses cards printed in the last 2-3 years, wheras Pioneer allows cards printed since 2012. Older formats include Modern (2003 onward), and Legacy (All cards since the games inception in 1994).
 
 #### Limited
+In limited formats, you open packs of cards to build you deck on the fly. In all limited formats, your deck must contain at least 40 cards, and you may add an unlimited number of basic lands. This is no limit to the number of copies of a card you can play.
 
 ##### Draft
+In a draft event, you start at a table with several other players (usually 8 players total). Each player is given 3 packs of cards. The draft will start with each player opening their first pack of cards, selecting one card from it, and passing the remaining cards to the player to their left. When they receive a pack of cards from the player to their right, repeating this process until there are no more cards to select. Once the first pack is completed, players will open the second pack, and pass the cards to the right, picking one at a time as before. The third pack goes back to the left. Once all players have completed their selections, they will build their decks using them.
 
 ##### Sealed
+In a sealed event, you start with 6 packs of cards. Open all 6 and build the best deck you can from the contents. 
 
 #### Commander
+Commander is a casual, multiplayer format. A deck consists of a legendary creature, the eponymous commander, and 99 other cards. You may only have a single copy of any card in your deck outside of basic lands. All cards in the deck must match the commanders color identity, which is defined as all colors of mana in the commander's casting cost as well as any activated abilities it has. For example, a deck that has designated Aesi as its commander may only consist of green and blue cards, while a deck led by Kenrrith, the Returned King can contain cards of all five colors.
+
+![Aesi, Tyrant of Gyer Strait](https://cards.scryfall.io/large/front/d/6/d607b003-6b48-429c-a7fd-45b8dd1bb4f9.jpg?1665822343)
+
+![Kenrith, the Returned King](https://cards.scryfall.io/large/front/0/e/0e259db1-14db-4314-998c-6a076a28d8cb.jpg?1691056044)
+
+In addition to the unique deck construction rules, your commander starts the game in the *command zone*. Commanders can be cast while in the command zone. Each time you commander would be sent to the graveyard or be exiled, you may choose to have them return to the command zone. If you do, they will cast 2 more mana to cast for each time they have been returned there. In commander, players will also lose the game if they have been dealt 21 damage by a single commander. 
+
+### Playing the game
 
 ## Important terms
-- The Stack
+- The stack
 - Counter
 - Exile
 - Counters, like +1/+1
+- Token
 
 ### Creature keywords
 - Flying
@@ -166,8 +184,8 @@ Now that you've determinded how everything is attacking and blocking, damage is 
 - Haste
 - Trample
 - Deathtouch
-- First Strike
-- Double Strike
+- First strike
+- Double strike
 - Lifelink
 - Menace
 - Hexproof
