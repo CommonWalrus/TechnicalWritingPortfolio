@@ -145,7 +145,7 @@ The end step is the last oppertunity for players to cast instants or activate ab
 Players cannot abilities activated or cast spells during the cleanup step, much like the upkeep step. During the cleanup step, damage on creatures wears off, and the player whose turn is ending discards cards to their maximum handsize if they are over that limit.
 
 ### Deck construction and game formats
-Magic functions as a rules system with which you can play a variety of games, much like how a ball can be used for both soccer and basketball. These are called formats, and each one helps to define how the games is played more specifically. Unless otherwise noted, players should start the game with 20 life.
+Magic functions as a rules system with which you can play a variety of games, much like how a ball can be used for both soccer and basketball. These are called formats, and each one helps to define how the games is played more specifically. Unless otherwise noted, players should start the game with 20 life. In any format with more then 2 players, the starting player will get to draw on their first turn.
 
 #### Constructed
 In constucted formats, you bring your own deck of at least 60 cards. You are limited to 4 copies of any card, but may use an unlimited number of basic lands. The cards you may use in constructed formats are often defined by when they were printed. Standard encompasses cards printed in the last 2-3 years, wheras Pioneer allows cards printed since 2012. Older formats include Modern (2003 onward), and Legacy (All cards since the games inception in 1994).
@@ -160,15 +160,16 @@ In a draft event, you start at a table with several other players (usually 8 pla
 In a sealed event, you start with 6 packs of cards. Open all 6 and build the best deck you can from the contents. 
 
 #### Commander
-Commander is a casual, multiplayer format. A deck consists of a legendary creature, the eponymous commander, and 99 other cards. You may only have a single copy of any card in your deck outside of basic lands. All cards in the deck must match the commanders color identity, which is defined as all colors of mana in the commander's casting cost as well as any activated abilities it has. For example, a deck that has designated Aesi as its commander may only consist of green and blue cards, while a deck led by Kenrrith, the Returned King can contain cards of all five colors.
+Commander is a casual, multiplayer format. A deck consists of a legendary creature, the eponymous commander, and 99 other cards. You may only have a single copy of any card in your deck outside of basic lands. All cards in the deck must match the commanders color identity, which is defined as all colors of mana in the commander's casting cost as well as any activated abilities it has. For example, a deck that has designated Aesi as its commander may only consist of green and blue cards, while a deck led by Kenrith, the Returned King can contain cards of all five colors.
 
 ![Aesi, Tyrant of Gyer Strait](https://cards.scryfall.io/large/front/d/6/d607b003-6b48-429c-a7fd-45b8dd1bb4f9.jpg?1665822343)
 
 ![Kenrith, the Returned King](https://cards.scryfall.io/large/front/0/e/0e259db1-14db-4314-998c-6a076a28d8cb.jpg?1691056044)
 
-In addition to the unique deck construction rules, your commander starts the game in the *command zone*. Commanders can be cast while in the command zone. Each time you commander would be sent to the graveyard or be exiled, you may choose to have them return to the command zone. If you do, they will cast 2 more mana to cast for each time they have been returned there. In commander, players will also lose the game if they have been dealt 21 damage by a single commander. 
+In addition to the unique deck construction rules, commander makes some changes to how the game is played. Your will commander start the game in the *command zone*, and can be cast while in the command zone. Each time your commander would be sent to the graveyard or be exiled, you may choose to have them return to the command zone. If you do, they will cast 2 more mana to cast for each time they have been returned there. In commander, players will also lose the game if they have been dealt 21 damage by a single commander.
 
-### Playing the game
+### Other notes for playing the game
+
 
 ## Important terms
 - The stack
