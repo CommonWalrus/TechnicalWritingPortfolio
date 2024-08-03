@@ -22,7 +22,9 @@ Red magic is passionate, impulsive, and fiery. Red fights alongside goblins, sha
 Green magic embodies nature, growth, and change. Green allies itself with elves, druids, treefolk, and hydras. Its spells allow it to play imposing threats early and destroy that which is unnatural. Green can struggle when it's unable to keep its large creatures around.
 
 <!--- 
+
 Green's Stuggle?
+Green struggles when its titanic creatures are contained
 --->
 
 ## How to play Magic
