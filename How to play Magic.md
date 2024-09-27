@@ -90,6 +90,8 @@ As noted earlier, creatures have two numbers in the bottom right of their text b
 
 ![Staff of Domination](https://cards.scryfall.io/large/front/7/9/7980fc3b-71d5-427d-bd42-087256fd2059.jpg?1562877858)
 
+<img src="https://cards.scryfall.io/large/front/7/9/7980fc3b-71d5-427d-bd42-087256fd2059.jpg?1562877858" alt="drawing" style="width:200px;"/>
+
 Artifacts can be enigmatic relics, fanciful inventions, powerful weapons, or anything in between. Artifacts can do many things, but usually they will either have an ability that applies constantly or an ability that you can activate. Sometimes they have both! Artifacts can also be creatures, like automatons or vehicles. 
 
 
