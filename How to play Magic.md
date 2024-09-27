@@ -30,7 +30,7 @@ Green struggles when its titanic creatures are contained
 ## How to play Magic
 
 ### Basics
-In a game of Magic, your goal is to defeat your opponent, usually by reducing their life total to 0. However, defeating your opponent is no easy task, and there are many ways to go about it! Each player should bring a deck that consists of at least 60 cards, ideally in a combination of lands, creatures and other spells. You use your lands to cast your spells by **tapping** <img src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/b/be/T.svg/revision/latest/scale-to-width-down/15?cb=20160125095850" alt="Tap Symbol" style="width:12px;"/> them to produce mana. Whether or not something is **tapped** in a game of Magic is important, as tapped lands are unable to produce more resources, tapped creatures cannot block, and some abilites require tapping the card to use them. 
+In a game of Magic, your goal is to defeat your opponent, usually by reducing their life total to 0. However, defeating your opponent is no easy task, and there are many ways to go about it! Each player should bring a deck that consists of at least 60 cards, ideally in a combination of lands, creatures and other spells. You use your lands to cast your spells by **tapping** <img src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/b/be/T.svg/revision/latest/scale-to-width-down/15?cb=20160125095850" alt="Tap Symbol" style="width:15px;"/> them to produce mana. Whether or not something is **tapped** in a game of Magic is important, as tapped lands are unable to produce more resources, tapped creatures cannot block, and some abilites require tapping the card to use them. 
 
 <!--- 
 Life total
@@ -188,14 +188,21 @@ The end step is the last oppertunity for players to cast instants or activate ab
 Players cannot abilities activated or cast spells during the cleanup step, much like the upkeep step. During the cleanup step, damage on creatures wears off, and the player whose turn is ending discards cards to their maximum handsize if they are over that limit.
 
 ### Zones
-
+Throughout the game, some cards may refer to various zones cards can exist in.
 <!--- 
 use a visual?
 --->
+#### Hand
+Your hand is where you keep the cards you can play. You start the game by drawing 7 cards and may have up to 7 cards in hand. if you have more at the end of your turn, you discard cards until you only have 7. 
 
 #### Battlefield
+The Battlefield is where the bulk of the game occurs. Permanent cards, such as creatures or lands, exist here once they are played. 
 
-#### 
+#### Graveyard
+Whenever a card is discarded, destroyed, or defeated in combat it goes to the graveyard. Some cards can allow you to use cards in your graveyard, such as reanimating creatures or recovering cards for reuse. 
+
+#### Exile
+Exile is the land beyond the graveyard. Cards in exile are usually gone for good or being stored there temporaily by some other ability.
 
 ### Deck construction and game formats
 Magic functions as a rules system with which you can play a variety of games, much like how a ball can be used for both soccer and basketball. These are called formats, and each one helps to define how the games is played more specifically. Unless otherwise noted, players should start the game with 20 life. In any format with more then 2 players, the starting player will get to draw on their first turn.
@@ -215,9 +222,13 @@ In a sealed event, you start with 6 packs of cards. Open all 6 and build the bes
 #### Commander
 Commander is a casual, multiplayer format. A deck consists of a legendary creature, the eponymous commander, and 99 other cards. You may only have a single copy of any card in your deck outside of basic lands. All cards in the deck must match the commander's **color identity**, which is defined as all colors of mana in the commander's casting cost as well as any activated abilities it has. For example, a deck that has designated Aesi as its commander may only consist of green and blue cards, while a deck led by Kenrith, the Returned King can contain cards of all five colors.
 
-![Aesi, Tyrant of Gyer Strait](https://cards.scryfall.io/large/front/d/6/d607b003-6b48-429c-a7fd-45b8dd1bb4f9.jpg?1665822343)
+![]()
 
-![Kenrith, the Returned King](https://cards.scryfall.io/large/front/0/e/0e259db1-14db-4314-998c-6a076a28d8cb.jpg?1691056044)
+
+<img src="https://cards.scryfall.io/large/front/d/6/d607b003-6b48-429c-a7fd-45b8dd1bb4f9.jpg?1665822343" alt="Aesi, Tyrant of Gyer Strait" style="width:325px;"/>
+
+
+<img src="https://cards.scryfall.io/large/front/0/e/0e259db1-14db-4314-998c-6a076a28d8cb.jpg?1691056044" alt="Kenrith, the Returned King" style="width:325px;"/>
 
 In addition to the unique deck construction rules, commander makes some changes to how the game is played. Your will commander start the game in the *command zone*, and can be cast while in the command zone. Each time your commander would be sent to the graveyard or be exiled, you may choose to have them return to the command zone. If you do, they will cast 2 more mana to cast for each time they have been returned there. In commander, players will also lose the game if they have been dealt 21 damage by a single commander.
 
