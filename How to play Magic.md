@@ -30,7 +30,7 @@ Green struggles when its titanic creatures are contained
 ## How to play Magic
 
 ### Basics
-In a game of Magic, your goal is to defeat your opponent, usually by reducing their life total to 0. However, defeating your opponent is no easy task, and there are many ways to go about it! Each player should bring a deck that consists of at least 60 cards, ideally in a combination of lands, creatures and other spells. You use your lands to cast your spells by **tapping** <img src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/b/be/T.svg/revision/latest?cb=20160125095850" alt="Tap Symbol" style="width:12px;"/> them to produce mana. Whether or not something is **tapped** in a game of Magic is important, as tapped lands are unable to produce more resources, tapped creatures cannot block, and some abilites require tapping the card to use them. 
+In a game of Magic, your goal is to defeat your opponent, usually by reducing their life total to 0. However, defeating your opponent is no easy task, and there are many ways to go about it! Each player should bring a deck that consists of at least 60 cards, ideally in a combination of lands, creatures and other spells. You use your lands to cast your spells by **tapping** <img src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/b/be/T.svg/revision/latest/scale-to-width-down/15?cb=20160125095850" alt="Tap Symbol" style="width:15px;"/> them to produce mana. Whether or not something is **tapped** in a game of Magic is important, as tapped lands are unable to produce more resources, tapped creatures cannot block, and some abilites require tapping the card to use them. 
 
 <!--- 
 Life total
