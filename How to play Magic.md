@@ -49,8 +49,9 @@ Cards in Magic contain a lot of information! Look at the card below:
 The top line of a card contains its name, in this case Lightning Strike, and its **mana cost**, the symbols to the right of the name. You can pay this by can pay this cost by tapping land to produce mana. This card costs 2 mana total, and at least 1 must be red mana. Below the art is the type line, where the cards types and any subtypes are specified. Lightning Strike is an instant. On the far right of the type line is the set symbol, which you can use to tell what set a card was printed in, this has no effect on the game. The large box just below the type line is the cards rules text. Lightning Bolt's rules text is strightforward, it will deal 3 damage to any target. Lets take a look at another card:
 
 
+![]()
 
-<img src="https://cards.scryfall.io/large/front/d/3/d389b8db-5866-4146-a379-f24b6463622b.jpg?1562304398" alt="Serra Angel" style="width:325px;"/>
+<img src="https://cards.scryfall.io/large/front/3/5/350c41af-18e5-4ce8-b3b1-64baa85b1acb.jpg?1562197862" alt="Serra Angel" style="width:325px;"/>
 
 Serra Angel costs five mana total, and at least 2 must be white. It is a creature and has the subtype of angel. Serra Angel has two abilities, flying and vigilence. Finally, in the bottom right of the card are its combat statistics. The first number is its power, 4, and the second is its toughness, also 4. We'll talk about this more in the **creatures** section below.
 
