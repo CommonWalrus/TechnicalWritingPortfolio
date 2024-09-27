@@ -107,22 +107,13 @@ Artifacts can be enigmatic relics, fanciful inventions, powerful weapons, or any
 
 --->
 
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-    <div style="display: inline-block;">
-        <h2>Good</h2>
-        <pre><code class="language-c">int foo (void) 
-{
-    int i;
-}
-</code></pre>
-    </div>
-    <div style="display: inline-block;">
-        <h2>Bad</h2>
-        <pre><code class="language-c">int foo (void) {
-    int i;
-}
-</code></pre>
-    </div>
+<div class="row">
+  <div class="col-md-8" markdown="1">
+ Artifacts can be enigmatic relics, fanciful inventions, powerful weapons, or anything in between. Artifacts can do many things, but usually they will either have an ability that applies constantly or an ability that you can activate. Sometimes they have both! Artifacts can also be creatures, like automatons or vehicles. 
+  </div>
+  <div class="col-md-4" markdown="1">
+  <img src="https://cards.scryfall.io/large/front/7/9/7980fc3b-71d5-427d-bd42-087256fd2059.jpg?1562877858" alt="Staff of Domination" style="width:300px;"/>
+  </div>
 </div>
 
 
