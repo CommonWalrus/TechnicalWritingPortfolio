@@ -43,12 +43,14 @@ Add tap symbol and color symbols
 ### Parts of a card
 Cards in Magic contain a lot of information! Look at the card below:
 
-![Lightning Strike](https://cards.scryfall.io/large/front/0/8/084b7337-c06f-4cbf-8fc0-0b20c221f1dc.jpg?1562300290)
+
+<img src="https://cards.scryfall.io/large/front/0/8/084b7337-c06f-4cbf-8fc0-0b20c221f1dc.jpg?1562300290" alt="Lightning Strike" style="width:325px;"/>
 
 The top line of a card contains its name, in this case Lightning Strike, and its **mana cost**, the symbols to the right of the name. You can pay this by can pay this cost by tapping land to produce mana. This card costs 2 mana total, and at least 1 must be red mana. Below the art is the type line, where the cards types and any subtypes are specified. Lightning Strike is an instant. On the far right of the type line is the set symbol, which you can use to tell what set a card was printed in, this has no effect on the game. The large box just below the type line is the cards rules text. Lightning Bolt's rules text is strightforward, it will deal 3 damage to any target. Lets take a look at another card:
 
 
-![Serra Angel](https://cards.scryfall.io/large/front/3/5/350c41af-18e5-4ce8-b3b1-64baa85b1acb.jpg?1562197862)
+
+<img src="https://cards.scryfall.io/large/front/d/3/d389b8db-5866-4146-a379-f24b6463622b.jpg?1562304398" alt="Serra Angel" style="width:325px;"/>
 
 Serra Angel costs five mana total, and at least 2 must be white. It is a creature and has the subtype of angel. Serra Angel has two abilities, flying and vigilence. Finally, in the bottom right of the card are its combat statistics. The first number is its power, 4, and the second is its toughness, also 4. We'll talk about this more in the **creatures** section below.
 
@@ -78,7 +80,7 @@ In addition to basic lands, a variety of nonbasic lands are available for use as
 
 #### Creatures
 
-![Shivan Dragon](https://cards.scryfall.io/large/front/d/3/d389b8db-5866-4146-a379-f24b6463622b.jpg?1562304398)
+<img src="https://cards.scryfall.io/large/front/d/3/d389b8db-5866-4146-a379-f24b6463622b.jpg?1562304398" alt="Shivan Dragon" style="width:325px;"/>
 
 Creatures do a lot of work in defeating your opponent. They're your forces with which you can do battle, attacking your enemies or defending you from incoming threats. Whenever you summon a creature, it has **summoning sickness** until your next turn. Creatures cannot attack or tap to activate abilities during this time. However, they can still block, allowing them to protect you from opposing creatures.
 
@@ -96,12 +98,9 @@ Artifacts can be enigmatic relics, fanciful inventions, powerful weapons, or any
 
 
 
-
-
-
 #### Enchantments
 
-![Wilderness Reclaimation](https://cards.scryfall.io/large/front/5/4/54af08f7-9c6c-464e-b2f7-2b5803f36481.jpg?1584831336)
+<img src="https://cards.scryfall.io/large/front/5/4/54af08f7-9c6c-464e-b2f7-2b5803f36481.jpg?1584831336" alt="Wilderness Reclaimation" style="width:325px;"/>
 
 Enchantments are magic that seeps into something, be that a creature or the world at large. Some enchantments can have sweeping effects, like making your opponents unable to attack you. Others, like auras, a common enchantment subtype, can enhance and augment creatures to new heights of strength. 
 
@@ -109,7 +108,7 @@ Enchantments are magic that seeps into something, be that a creature or the worl
 
 #### Planeswalkers
 
-![Liliana of the Veil](https://cards.scryfall.io/large/front/a/c/ac506c17-adc8-49c6-9d8d-43db7cb1ec9d.jpg?1562835390)
+<img src="https://cards.scryfall.io/large/front/a/c/ac506c17-adc8-49c6-9d8d-43db7cb1ec9d.jpg?1562835390" alt="Liliana of the Veil" style="width:325px;"/>
 
 Planeswalkers are allies you can summon to assist you in battle. Once per turn, they can activate one of their abilities, which can be anything from mundane to game winning. They can be attacked by your opponents as though they were a player; defending them will give you more time to activate their more powerful abilities!
 
@@ -122,7 +121,7 @@ Consider cut out a detail of card, of loyalty ability cost
 
 #### Sorceries
 
-![Day of Judgement](https://cards.scryfall.io/large/front/1/e/1ed43ed8-9490-4433-843f-9020cd3470a1.jpg?1562635091)
+<img src="https://cards.scryfall.io/large/front/1/e/1ed43ed8-9490-4433-843f-9020cd3470a1.jpg?1562635091" alt="Day of Judgement" style="width:325px;"/>
 
 Sorceries are spells you can cast during your turn. They can do nearly anything in the game, with effects as varied as drawing cards, dealing damage, or reanimating the dead.
 
@@ -130,7 +129,8 @@ Sorceries are spells you can cast during your turn. They can do nearly anything 
 
 #### Instants
 
-![Counterspell](https://cards.scryfall.io/large/front/1/9/1920dae4-fb92-4f19-ae4b-eb3276b8dac7.jpg?1628801663)
+
+<img src="https://cards.scryfall.io/large/front/1/9/1920dae4-fb92-4f19-ae4b-eb3276b8dac7.jpg?1628801663" alt="Counterspell" style="width:325px;"/>
 
 Instants are very similar to sorceries. However, while other spells can only be played one at a time during your main phase, instants can be played at anytime. Instants can even counter another spell, stopping it from ever happening!
 
