@@ -236,7 +236,7 @@ In addition to the unique deck construction rules, commander makes some changes 
 
 
 ## Important terms
-- The stack
+- The Stack
 - Tapping and Tapped
 - Counter
 - Counters, like +1/+1
@@ -244,6 +244,7 @@ In addition to the unique deck construction rules, commander makes some changes 
 
 ### Creature keywords
 - Flying
+    - Creatures with flying cannot be blocked by creatures without Flying or Reach
 - Reach
 - Vigilence
 - Haste
@@ -259,6 +260,9 @@ In addition to the unique deck construction rules, commander makes some changes 
 
 ## Other Notes
 
+<!--- 
+Four spaces to make a nested bullet
+--->
 
 <!--- 
 TODO: 
@@ -269,7 +273,7 @@ TODO:
 - List of important terms
 - Clean up Loyalty abilities
 - Write up about target audiance 
---->
+
 
 
 <!--- 
