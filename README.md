@@ -10,7 +10,7 @@ Phones out of range email
 
 Call forward and removal instructions
 
-- This is an internal document I created to provide my coworkers a step by step guide in adding and removing call forwards for various clients
+- This is an internal document I created to provide my coworkers a step by step guide in adding and removing call forwards for various clients. It's used as a quick reference for new teammates.
 
 How To Play Magic
 
