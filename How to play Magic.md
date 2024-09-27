@@ -6,19 +6,19 @@ Magic is a collectable card game in which two or more players try to defeat each
 ## Colors of Magic
 Magic divides its cards into five colors of **mana**, white, blue, black, red, and green. Each color represents a different ethos and way to play the game.
 
-### White
+### White <img src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/8/8e/W.svg/revision/latest/scale-to-width-down/15?cb=20160125094923" alt="White Mana Symbol" style="width:15px;"/>
 White magic is all about community, selflessness, and order. Some of white's creatures are soldiers, knights, clerics, and angels. Its spells bolster its creatures, remove impediemnts, or equalize the playing field. White can struggle with drawing cards and the small size of its creatures.
 
-### Blue
+### Blue <img src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/9/9f/U.svg/revision/latest/scale-to-width-down/15?cb=20160121092256" alt="Blue Mana Symbol" style="width:15px;"/>
 Blue magic focuses on logic, technology, and preparation. Blue summons wizards, sphinxs, merfolk, and deepsea creatures to help in battle. Its spells are proactive and flexable, focused around stopping or stalling problems before they get out of control. Blue can struggle with stopping problems that are already underway.
 
-### Black
+### Black <img src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/2/2f/B.svg/revision/latest/scale-to-width-down/15?cb=20160125093423" alt="Black Mana Symbol" style="width:15px;"/>
 Black magic is ruthless, efficient, and feels the ends always justify the means. Black consorts with warlocks, vampires, zombies, and demons. Its spells are cutthroat, sometimes even harming yourself for powerful effects. Black can struggle against threats it cannot destroy outright.
 
-### Red
+### Red <img src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/8/87/R.svg/revision/latest/scale-to-width-down/15?cb=20160125094913" alt="Red Mana Symbol" style="width:15px;"/>
 Red magic is passionate, impulsive, and fiery. Red fights alongside goblins, shamans, warriors and dragons. Its spells excel at dealing damage and breaking things. Red can stuggle with opponents who can stall their assaults.
 
-### Green
+### Green <img src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/8/88/G.svg/revision/latest/scale-to-width-down/15?cb=20160125094907" alt="Green Mana Symbol" style="width:15px;"/>
 Green magic embodies nature, growth, and change. Green allies itself with elves, druids, treefolk, and hydras. Its spells allow it to play imposing threats early and destroy that which is unnatural. Green can struggle when it's titanic creatures are contained.
 
 <!--- 
@@ -30,7 +30,7 @@ Green struggles when its titanic creatures are contained
 ## How to play Magic
 
 ### Basics
-In a game of Magic, your goal is to defeat your opponent, usually by reducing their life total to 0. However, defeating your opponent is no easy task, and there are many ways to go about it! Each player should bring a deck that consists of at least 60 cards, ideally in a combination of lands, creatures and other spells. You use your lands to cast your spells by **tapping** <img src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/b/be/T.svg/revision/latest/scale-to-width-down/15?cb=20160125095850" alt="Tap Symbol" style="width:15px;"/> them to produce mana. Whether or not something is **tapped** in a game of Magic is important, as tapped lands are unable to produce more resources, tapped creatures cannot block, and some abilites require tapping the card to use them. 
+In a game of Magic, your goal is to defeat your opponent, usually by reducing their life total to 0. However, defeating your opponent is no easy task, and there are many ways to go about it! Each player should bring a deck that consists of at least 60 cards, ideally in a combination of lands, creatures and other spells. You use your lands to cast your spells by **tapping** <img src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/b/be/T.svg/revision/latest/scale-to-width-down/15?cb=20160125095850" alt="Tap Symbol" style="width:12px;"/> them to produce mana. Whether or not something is **tapped** in a game of Magic is important, as tapped lands are unable to produce more resources, tapped creatures cannot block, and some abilites require tapping the card to use them. 
 
 <!--- 
 Life total
