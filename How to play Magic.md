@@ -53,7 +53,7 @@ Let's take a look at another card:
 
 <img src="https://cards.scryfall.io/large/front/3/5/350c41af-18e5-4ce8-b3b1-64baa85b1acb.jpg?1562197862" alt="Serra Angel" style="width:325px;"/>
 
-Serra Angel costs five mana total, and at least 2 must be white. It is a creature and has the subtype of angel. Serra Angel has two abilities, flying and vigilence. Finally, in the bottom right of the card are its combat statistics. The first number is its power, 4, and the second is its toughness, also 4. We'll talk about this more in the **creatures** section below.
+Serra Angel costs five mana total, at least 2 of which must be white. It is a creature and has the subtype of angel. Serra Angel has two abilities, flying and vigilance. Finally, in the bottom right of the card are its combat statistics. The first number is its power, 4, and the second is its toughness, also 4. We'll talk about this more in the **creatures** section below.
 
 ### Types of cards
 
@@ -83,7 +83,7 @@ In addition to basic lands, a variety of nonbasic lands are available for use as
 
 <img src="https://cards.scryfall.io/large/front/d/3/d389b8db-5866-4146-a379-f24b6463622b.jpg?1562304398" alt="Shivan Dragon" style="width:325px;"/>
 
-Creatures do a lot of work in defeating your opponent. They're your forces with which you can do battle, attacking your enemies or defending you from incoming threats. Whenever you summon a creature, it has **summoning sickness** until your next turn. Creatures cannot attack or tap to activate abilities during this time. However, they can still block, allowing them to protect you from opposing creatures.
+Creatures do a lot of work in defeating your opponent. They're your forces with which you can do battle, attacking your enemies or defending you from incoming threats. After you cast a creature spell, that creature has **summoning sickness** until your next turn. Creatures cannot attack or tap to activate abilities during this time. However, they can still block, allowing them to protect you from opposing creatures.
 
 ##### Power and Toughness
 As noted earlier, creatures have two numbers in the bottom right of their text box, with a / seperating them. The first number is their power, representing how much damage they can do, and the second is their toughness, showing how much damage they can take. Whenever a creature has taken more damage in a turn than their toughness, they die. Other cards can change a creatures power or toughness, and will note that change as +A/+B or -A/-B. If a creature ever has less than 0 toughness due to one of these modifications, it dies. 
@@ -111,10 +111,10 @@ Enchantments are magic that seeps into something, be that a creature or the worl
 
 <img src="https://cards.scryfall.io/large/front/a/c/ac506c17-adc8-49c6-9d8d-43db7cb1ec9d.jpg?1562835390" alt="Liliana of the Veil" style="width:325px;"/>
 
-Planeswalkers are allies you can summon to assist you in battle. Once per turn, they can activate one of their abilities, which can be anything from mundane to game winning. They can be attacked by your opponents as though they were a player; defending them will give you more time to activate their more powerful abilities!
+Planeswalkers are allies you can summon to assist you in battle. Once per turn, they can activate one of their abilities, which can be anything from mundane to game-winning. They can be attacked by your opponents as though they were a player; defending them will give you more time to activate their more powerful abilities!
 
 ##### Loyalty and loyalty abilities
-Planeswalkers enter with a number of **loyalty counters** on them equal to the number in the bottom right of their card. Once per turn, you can activate one of their abilities by adding or subtracting loyalty counters from them equal to the left of their abilities. When a planeswalker is dealt damage, they lose loyalty counters equal to the damage dealt to them. If their loyalty reaches 0, they are destroyed.
+Planeswalkers enter with a number of **loyalty counters** on them equal to the number in the bottom right of their card. Once per turn, you can activate one of their abilities by adding or subtracting the number loyalty counters displayed to the left of that ability. When a planeswalker is dealt damage, they lose loyalty counters equal to the damage dealt to them. If their loyalty reaches 0, they are destroyed.
 
 <!--- 
 Consider cut out a detail of card, of loyalty ability cost
@@ -133,7 +133,7 @@ Sorceries are spells you can cast during your turn. They can do nearly anything 
 
 <img src="https://cards.scryfall.io/large/front/1/9/1920dae4-fb92-4f19-ae4b-eb3276b8dac7.jpg?1628801663" alt="Counterspell" style="width:325px;"/>
 
-Instants are very similar to sorceries. However, while other spells can only be played one at a time during your main phase, instants can be played at anytime. Instants can even counter another spell, stopping it from ever happening!
+Instants are very similar to sorceries. However, while other spells can only be played one at a time during during certain parts of your turn, instants can be played at anytime, including on your opponent's turn. Instants can even counter another spell, stopping it from ever happening!
 
 
 
@@ -142,26 +142,26 @@ Instants are very similar to sorceries. However, while other spells can only be 
 A turn of Magic is broken into many parts, called phases and steps. Each of these segments serves a different purpose to allow the game to flow smoothly.
 
 #### Beginning phase
-The beginning phase consists of three steps, untap, upkeep, and draw. 
+The beginning phase consists of three steps: untap, upkeep, and draw. 
 
 
 <!--- 
 Bullet point steps under phases?
 --->
 ##### Untap step
-During your untap step, you untap all of your **permanents**. If a permanent has a stun **counter** on it, instead remove a stun counter and leave it tapped. Players cannot cast spells or activate abilities during the untap step.
+During your untap step, you untap all of your **permanents**. Players cannot cast spells or activate abilities during the untap step.
 
 ##### Upkeep step
-Your upkeep step is the first time you can take actions in a turn. Either player may cast instants or activate **abilties** before the step ends. The player who's turn it is has the first opportunity to take any of these actions.
+Your upkeep step is the first time you can take actions in a turn. Either player may cast instants or activate **abilities** before the step ends. The player whose turn it is has the first opportunity to take any of these actions.
 
 ##### Draw step
-This step starts with the active player drawing a card. Then there is a similar window for players to cast spells and activate abilities like in the upkeep step. If you are going first, you skip your first draw step in your first turn.
+This step starts with the active player drawing a card. Then, there is a similar window for players to cast spells and activate abilities like in the upkeep step. If you are going first, you skip your first draw step in your first turn.
 
 #### Main phase
 The main phase is where the bulk of spells are cast. You can cast any type of spell during your main phase, as well as play your land for the turn. There is an additonal main phase following the combat phase, where you can play more spells after combat.
 
 #### Combat phase
-The combat phase has five steps, beginning of combat, declare attackers, declare blockers, combat damage, and end of combat.
+The combat phase has five steps: beginning of combat, declare attackers, declare blockers, combat damage, and end of combat.
 
 ##### Beginning of combat step
 The beginning of combat step is the first time you can take actions during this phase. "At the beginning of combat on your turn" abilities happen here. Like the upkeep step, you can respond to those abilities and either player may cast instants or activate other abilties before the step ends.
