@@ -4,22 +4,22 @@
 Magic is a collectable card game in which two or more players try to defeat each other by summoning fearsome creatures and casting powerful spells. Magic is a very flexible game system, allowing for endless possiblities of play. With over 27,000 cards, a wealth of customization and self expression is available to you!
 
 ## Colors of Magic
-Magic divides its cards into five colors of **mana**, white, blue, black, red, and green. Each color represents a different ethos and way to play the game.
+Magic divides its cards into five colors of **mana**: white, blue, black, red, and green. Each color represents a different ethos and way to play the game.
 
 ### White <img src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/8/8e/W.svg/revision/latest/scale-to-width-down/15?cb=20160125094923" alt="White Mana Symbol" style="width:15px;"/>
-White magic is all about community, selflessness, and order. Some of white's creatures are soldiers, knights, clerics, and angels. Its spells bolster its creatures, remove impediemnts, or equalize the playing field. White can struggle with drawing cards and the small size of its creatures.
+White magic is all about community, selflessness, and order. Some of white's creatures are soldiers, knights, clerics, and angels. Its spells bolster its creatures, remove impediments, or equalize the playing field. White can struggle with drawing cards and the small size of its creatures.
 
 ### Blue <img src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/9/9f/U.svg/revision/latest/scale-to-width-down/15?cb=20160121092256" alt="Blue Mana Symbol" style="width:15px;"/>
-Blue magic focuses on logic, technology, and preparation. Blue summons wizards, sphinxs, merfolk, and deepsea creatures to help in battle. Its spells are proactive and flexable, focused around stopping or stalling problems before they get out of control. Blue can struggle with stopping problems that are already underway.
+Blue magic focuses on logic, technology, and preparation. Blue summons wizards, sphinxes, merfolk, and deepsea creatures to help in battle. Its spells are proactive and flexible, focused around stopping or stalling problems before they get out of control. Blue can struggle with stopping problems that are already underway.
 
 ### Black <img src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/2/2f/B.svg/revision/latest/scale-to-width-down/15?cb=20160125093423" alt="Black Mana Symbol" style="width:15px;"/>
-Black magic is ruthless, efficient, and feels the ends always justify the means. Black consorts with warlocks, vampires, zombies, and demons. Its spells are cutthroat, sometimes even harming yourself for powerful effects. Black can struggle against threats it cannot destroy outright.
+Black magic is ruthless, efficient, and feels the ends always justify the means. Black consorts with warlocks, vampires, zombies, and demons. Its spells are cutthroat, sometimes even harming yourself in exchange powerful effects. Black can struggle against threats it cannot destroy outright.
 
 ### Red <img src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/8/87/R.svg/revision/latest/scale-to-width-down/15?cb=20160125094913" alt="Red Mana Symbol" style="width:15px;"/>
-Red magic is passionate, impulsive, and fiery. Red fights alongside goblins, shamans, warriors and dragons. Its spells excel at dealing damage and breaking things. Red can stuggle with opponents who can stall their assaults.
+Red magic is passionate, impulsive, and fiery. Red fights alongside goblins, shamans, warriors, and dragons. Its spells excel at dealing damage and breaking things. Red can stuggle with opponents who can stall their assaults.
 
 ### Green <img src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/8/88/G.svg/revision/latest/scale-to-width-down/15?cb=20160125094907" alt="Green Mana Symbol" style="width:15px;"/>
-Green magic embodies nature, growth, and change. Green allies itself with elves, druids, treefolk, and hydras. Its spells allow it to play imposing threats early and destroy that which is unnatural. Green can struggle when it's titanic creatures are contained.
+Green magic embodies nature, growth, and change. Green allies itself with elves, druids, treefolk, and hydras. Its spells allow it to play imposing threats early and destroy that which is unnatural. Green can struggle when its titanic creatures are contained.
 
 <!--- 
 
@@ -30,7 +30,7 @@ Green struggles when its titanic creatures are contained
 ## How to play Magic
 
 ### Basics
-In a game of Magic, your goal is to defeat your opponent, usually by reducing their life total to 0. However, defeating your opponent is no easy task, and there are many ways to go about it! Each player should bring a deck that consists of at least 60 cards, ideally in a combination of lands, creatures and other spells. You use your lands to cast your spells by **tapping** <img src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/b/be/T.svg/revision/latest/scale-to-width-down/15?cb=20160125095850" alt="Tap Symbol" style="width:15px;"/> them to produce mana. Whether or not something is **tapped** in a game of Magic is important, as tapped lands are unable to produce more resources, tapped creatures cannot block, and some abilites require tapping the card to use them. 
+In a game of Magic, your goal is to defeat your opponent, usually by reducing their life total to 0. However, defeating your opponent is no easy task, and there are many ways to go about it! Each player should bring a deck that consists of at least 60 cards, ideally in a combination of lands, creatures, and other spells. You use your lands to cast your spells by **tapping** <img src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/b/be/T.svg/revision/latest/scale-to-width-down/15?cb=20160125095850" alt="Tap Symbol" style="width:15px;"/> them to produce mana. Whether or not something is **tapped** in a game of Magic is important, as tapped lands are unable to produce more resources, tapped creatures cannot block, and some abilities require tapping the card to use them. 
 
 <!--- 
 Life total
@@ -46,10 +46,10 @@ Cards in Magic contain a lot of information! Look at the card below:
 
 <img src="https://cards.scryfall.io/large/front/0/8/084b7337-c06f-4cbf-8fc0-0b20c221f1dc.jpg?1562300290" alt="Lightning Strike" style="width:325px;"/>
 
-The top line of a card contains its name, in this case Lightning Strike, and its **mana cost**, the symbols to the right of the name. You can pay this by can pay this cost by tapping land to produce mana. This card costs 2 mana total, and at least 1 must be red mana. Below the art is the type line, where the cards types and any subtypes are specified. Lightning Strike is an instant. On the far right of the type line is the set symbol, which you can use to tell what set a card was printed in, this has no effect on the game. The large box just below the type line is the cards rules text. Lightning Bolt's rules text is strightforward, it will deal 3 damage to any target. Lets take a look at another card:
+The top line of a card contains its name, in this case Lightning Strike, and its **mana cost**, the symbols to the right of the name. You can pay this this cost by tapping lands to produce mana. This card costs 2 mana total, and at least 1 must be red mana. Below the art is the type line, where the cards types and any subtypes are specified. Lightning Strike is an instant. On the far right of the type line is the set symbol, which you can use to tell what set a card was printed in; this has no effect on the game. The large box just below the type line is the card's rules text. Lightning Strike's rules text is straightforward; it will deal 3 damage to any target. 
 
+Let's take a look at another card:
 
-![]()
 
 <img src="https://cards.scryfall.io/large/front/3/5/350c41af-18e5-4ce8-b3b1-64baa85b1acb.jpg?1562197862" alt="Serra Angel" style="width:325px;"/>
 
