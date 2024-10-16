@@ -1,7 +1,7 @@
 # Magic: the Gathering
 
 ## What is Magic?
-Magic is a collectable card game in which two or more players try to defeat each other by summoning fearsome creatures and casting powerful spells. Magic is a very flexible game system, allowing for endless possiblities of play. With over 27,000 cards, a wealth of customization and self expression is available to you!
+Magic is a collectable card game in which two or more players try to defeat each other by summoning fearsome creatures and casting powerful spells. Magic is a very flexible game system, allowing for endless possibilities of play. With over 27,000 cards, a wealth of customization and self-expression is available to you!
 
 ## Colors of Magic
 Magic divides its cards into five colors of **mana**: white, blue, black, red, and green. Each color represents a different ethos and way to play the game.
@@ -10,7 +10,7 @@ Magic divides its cards into five colors of **mana**: white, blue, black, red, a
 White magic is all about community, selflessness, and order. Some of white's creatures are soldiers, knights, clerics, and angels. Its spells bolster its creatures, remove impediments, or equalize the playing field. White can struggle with drawing cards and the small size of its creatures.
 
 ### Blue <img src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/9/9f/U.svg/revision/latest/scale-to-width-down/15?cb=20160121092256" alt="Blue Mana Symbol" style="width:15px;"/>
-Blue magic focuses on logic, technology, and preparation. Blue summons wizards, sphinxes, merfolk, and deepsea creatures to help in battle. Its spells are proactive and flexible, focused around stopping or stalling problems before they get out of control. Blue can struggle with stopping problems that are already underway.
+Blue magic focuses on logic, technology, and preparation. Blue summons wizards, sphinxes, merfolk, and deep-sea creatures to help in battle. Its spells are proactive and flexible, focused around stopping or stalling problems before they get out of control. Blue can struggle with stopping problems that are already underway.
 
 ### Black <img src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/2/2f/B.svg/revision/latest/scale-to-width-down/15?cb=20160125093423" alt="Black Mana Symbol" style="width:15px;"/>
 Black magic is ruthless, efficient, and feels the ends always justify the means. Black consorts with warlocks, vampires, zombies, and demons. Its spells are cutthroat, sometimes even harming yourself in exchange powerful effects. Black can struggle against threats it cannot destroy outright.
@@ -23,7 +23,7 @@ Green magic embodies nature, growth, and change. Green allies itself with elves,
 
 <!--- 
 
-Green's Stuggle?
+Green's Struggle?
 Green struggles when its titanic creatures are contained
 --->
 
@@ -43,13 +43,11 @@ Add tap symbol and color symbols
 ### Parts of a card
 Cards in Magic contain a lot of information! Look at the card below:
 
-
 <img src="https://cards.scryfall.io/large/front/0/8/084b7337-c06f-4cbf-8fc0-0b20c221f1dc.jpg?1562300290" alt="Lightning Strike" style="width:325px;"/>
 
-The top line of a card contains its name, in this case Lightning Strike, and its **mana cost**, the symbols to the right of the name. You can pay this this cost by tapping lands to produce mana. This card costs 2 mana total, and at least 1 must be red mana. Below the art is the type line, where the cards types and any subtypes are specified. Lightning Strike is an instant. On the far right of the type line is the set symbol, which you can use to tell what set a card was printed in; this has no effect on the game. The large box just below the type line is the card's rules text. Lightning Strike's rules text is straightforward; it will deal 3 damage to any target. 
+The top line of a card contains its name, in this case Lightning Strike, and its **mana cost**, the symbols to the right of the name. You can pay this cost by tapping lands to produce mana. This card costs 2 mana total, and at least 1 must be red mana. Below the art is the type line, where the cards types and any subtypes are specified. Lightning Strike is an instant. On the far right of the type line is the set symbol, which you can use to tell what set a card was printed in; this has no effect on the game. The large box just below the type line is the card's rules text. Lightning Strike's rules text is straightforward; it will deal 3 damage to any target. Sometimes there will be *italicized* text on a card. If this text is contained in parentheses, it is called reminder text; it serves as a quick reminder on an ability. If it is below the rules it is called flavor text; this has no effect on the game but can help you to feel immersed in the world.
 
 Let's take a look at another card:
-
 
 <img src="https://cards.scryfall.io/large/front/3/5/350c41af-18e5-4ce8-b3b1-64baa85b1acb.jpg?1562197862" alt="Serra Angel" style="width:325px;"/>
 
@@ -70,15 +68,15 @@ Cards that remain on the battlefield after being played or cast are known as **P
 
 #### Lands
 Lands are the backbone for any deck of Magic. As discussed above, cards cost mana to cast. Lands can be used to create mana to pay for spells. Tapping a land usually creates 1 mana, but the type of mana can be different depending on the land. There are 5 basic land types:
-- Plains, which tap for white mana
-- Islands, which tap for blue mana
-- Swamps, which tap for black mana
-- Mountains, which tap for red mana
-- Forests, which tap for green mana
+- Plains, which tap for white mana <img src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/8/8e/W.svg/revision/latest/scale-to-width-down/15?cb=20160125094923" alt="White Mana Symbol" style="width:15px;"/>
+- Islands, which tap for blue mana <img src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/9/9f/U.svg/revision/latest/scale-to-width-down/15?cb=20160121092256" alt="Blue Mana Symbol" style="width:15px;"/>
+- Swamps, which tap for black mana <img src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/2/2f/B.svg/revision/latest/scale-to-width-down/15?cb=20160125093423" alt="Black Mana Symbol" style="width:15px;"/>
+- Mountains, which tap for red mana <img src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/8/87/R.svg/revision/latest/scale-to-width-down/15?cb=20160125094913" alt="Red Mana Symbol" style="width:15px;"/>
+- Forests, which tap for green mana <img src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/8/88/G.svg/revision/latest/scale-to-width-down/15?cb=20160125094907" alt="Green Mana Symbol" style="width:15px;"/>
 
 ![The five basic lands](https://52f4e29a8321344e30ae-0f55c9129972ac85d6b1f4e703468e6b.ssl.cf2.rackcdn.com/products/pictures/109040.jpg)
 
-In addition to basic lands, a variety of nonbasic lands are available for use as well. These can sometimes produce more than one color of mana, or have additional abilities. For example, some lands can even become creatures temporarily! 
+In addition to basic lands, a variety of nonbasic lands are available for use as well. These can sometimes produce more than one color of mana or have additional abilities. For example, some lands can even become creatures temporarily! 
 
 #### Creatures
 
@@ -87,25 +85,20 @@ In addition to basic lands, a variety of nonbasic lands are available for use as
 Creatures do a lot of work in defeating your opponent. They're your forces with which you can do battle, attacking your enemies or defending you from incoming threats. After you cast a creature spell, that creature has **summoning sickness** until your next turn. Creatures cannot attack or tap to activate abilities during this time. However, they can still block, allowing them to protect you from opposing creatures.
 
 ##### Power and Toughness
-As noted earlier, creatures have two numbers in the bottom right of their text box, with a / seperating them. The first number is their power, representing how much damage they can do, and the second is their toughness, showing how much damage they can take. Whenever a creature has taken more damage in a turn than their toughness, they die. Other cards can change a creatures power or toughness, and will note that change as +A/+B or -A/-B. If a creature ever has less than 0 toughness due to one of these modifications, it dies. 
-
+As noted earlier, creatures have two numbers in the bottom right of their text box, with a / separating them. The first number is their power, representing how much damage they can do, and the second is their toughness, showing how much damage they can take. Whenever a creature has taken more damage in a turn than their toughness, they die. Other cards can change a creatures power or toughness, and will note that change as +A/+B or -A/-B. If a creature ever has less than 0 toughness due to one of these modifications, it dies. 
 
 #### Artifacts
 
-
 <img src="https://cards.scryfall.io/large/front/7/9/7980fc3b-71d5-427d-bd42-087256fd2059.jpg?1562877858" alt="Staff of Domination" style="width:325px;"/>
-
 
 Artifacts can be enigmatic relics, fanciful inventions, powerful weapons, or anything in between. Artifacts can do many things, but usually they will either have an ability that applies constantly or an ability that you can activate. Sometimes they have both! Artifacts can also be creatures, like automatons or vehicles. 
 
 
-
 #### Enchantments
 
-<img src="https://cards.scryfall.io/large/front/5/4/54af08f7-9c6c-464e-b2f7-2b5803f36481.jpg?1584831336" alt="Wilderness Reclaimation" style="width:325px;"/>
+<img src="https://cards.scryfall.io/large/front/5/4/54af08f7-9c6c-464e-b2f7-2b5803f36481.jpg?1584831336" alt="Wilderness Reclamation" style="width:325px;"/>
 
 Enchantments are magic that seeps into something, be that a creature or the world at large. Some enchantments can have sweeping effects, like making your opponents unable to attack you. Others, like auras, a common enchantment subtype, can enhance and augment creatures to new heights of strength. 
-
 
 
 #### Planeswalkers
@@ -128,14 +121,11 @@ Consider cut out a detail of card, of loyalty ability cost
 Sorceries are spells you can cast during your turn. They can do nearly anything in the game, with effects as varied as drawing cards, dealing damage, or reanimating the dead.
 
 
-
 #### Instants
-
 
 <img src="https://cards.scryfall.io/large/front/1/9/1920dae4-fb92-4f19-ae4b-eb3276b8dac7.jpg?1628801663" alt="Counterspell" style="width:325px;"/>
 
-Instants are very similar to sorceries. However, while other spells can only be played one at a time during during certain parts of your turn, instants can be played at anytime, including on your opponent's turn. Instants can even counter another spell, stopping it from ever happening!
-
+Instants are very similar to sorceries. However, while other spells can only be played one at a time during certain parts of your turn, instants can be played at anytime, including on your opponent's turn. Instants can even counter another spell, stopping it from ever happening!
 
 
 
@@ -144,7 +134,6 @@ A turn of Magic is broken into many parts, called phases and steps. Each of thes
 
 #### Beginning phase
 The beginning phase consists of three steps: untap, upkeep, and draw. 
-
 
 <!--- 
 Bullet point steps under phases?
@@ -156,19 +145,19 @@ During your untap step, you untap all of your **permanents**. Players cannot cas
 Your upkeep step is the first time you can take actions in a turn. Either player may cast instants or activate **abilities** before the step ends. The player whose turn it is has the first opportunity to take any of these actions.
 
 ##### Draw step
-This step starts with the player whos turn it is drawing a card. Then, there is a similar window for players to cast spells and activate abilities like in the upkeep step. If you have the advantage of going first, you skip your draw step in your first turn.
+This step starts with the player whose turn it is drawing a card. Then, there is a similar window for players to cast spells and activate abilities like in the upkeep step. If you have the advantage of going first, you skip your draw step in your first turn.
 
 #### Main phase
-The main phase is where the bulk of spells are cast. You can cast any type of spell during your main phase, as well as play your land for the turn. There is an additonal main phase following the combat phase, where you can play more spells after combat.
+The main phase is where the bulk of spells are cast. You can cast any type of spell during your main phase, as well as play your land for the turn. There is an additional main phase following the combat phase, where you can play more spells after combat.
 
 #### Combat phase
 The combat phase has five steps: beginning of combat, declare attackers, declare blockers, combat damage, and end of combat.
 
 ##### Beginning of combat step
-The beginning of combat step is the first time you can take actions during this phase. "At the beginning of combat on your turn" abilities happen here. Like the upkeep step, you can respond to those abilities and either player may cast instants or activate other abilties before the step ends.
+The beginning of combat step is the first time you can take actions during this phase. "At the beginning of combat on your turn" abilities happen here. Like the upkeep step, you can respond to those abilities and either player may cast instants or activate other abilities before the step ends.
 
 ##### Declare attackers step
-This step starts with you declaring which of your creatures are attacking, as well as what players or planeswalkers those creatures are attacking. Each creature can only attack a single opponent or planeswalker an opponent controls. Creatures tap to attack unless they have **vigilance.**  Once attackers are declared, there is another oppertunity for players to cast instants or activate abilities. 
+This step starts with you declaring which of your creatures are attacking, as well as what players or planeswalkers those creatures are attacking. Each creature can only attack a single opponent or planeswalker an opponent controls. Creatures tap to attack unless they have **vigilance.**  Once attackers are declared, there is another opportunity for players to cast instants or activate abilities. 
 
 ##### Declare blockers step
 The defending player then declares blockers, assigning their creatures to block incoming attackers. You can assign multiple blockers to a single attacker, however the attacker gets to decide the order in which damage is dealt to them. Once blockers are assigned, there is another window for players to react. 
@@ -185,21 +174,24 @@ Note about second main phase?
 Once you are finished with your second main phase, you will pass the turn to the next player. The ending phase has two steps, end and cleanup.
 
 ##### End step
-The end step is the last oppertunity for players to cast instants or activate abilities here before the turn passes to the next player.
+The end step is the last opportunity for players to cast instants or activate abilities here before the turn passes to the next player.
 
 ##### Cleanup step
 Players cannot activate abilities or cast spells during the cleanup step, much like the untap step. During the cleanup step, damage on creatures wears off, and the player whose turn is ending discards cards to their maximum hand size, 7 by default, if they are over that limit.
 
 ### Zones
-Throughout the game, some cards may refer to various zones cards can exist in.
+Throughout the game, some cards may refer to various zones cards can exist in. Each player can decide where their zones are located, but they must be clearly understood by all players.
 <!--- 
 use a visual?
 --->
+#### Library
+Your library is your deck. All cards in it are kept face down. If you ever attempt to draw a card from an empty library, you lose the game.
+
 #### Hand
 Your hand is where you keep the cards you can play. You start the game with 7 cards in hand. If you have more at the end of your turn, you discard cards until you only have 7. 
 
 #### Battlefield
-The Battlefield is where the bulk of the game occurs. Permanent cards, such as creatures or lands, exist here once they are played. 
+The battlefield is where the bulk of the game occurs. Permanent cards, such as creatures or lands, exist here once they are played. 
 
 #### Graveyard
 Whenever a card is discarded, destroyed, or defeated in combat it goes to the graveyard. Some cards can allow you to use cards in your graveyard, such as reanimating creatures or recovering cards for reuse. 
@@ -208,10 +200,10 @@ Whenever a card is discarded, destroyed, or defeated in combat it goes to the gr
 Exile is the land beyond the graveyard. Cards in exile are usually gone for good or being stored there temporarily by some other ability.
 
 ### Deck construction and game formats
-Magic functions as a rules system with which you can play a variety of games, much like how a ball can be used many different ways. These are called formats, and each one helps to define how the game is played more specifically. Unless otherwise noted, players should start the game with 20 life. In any format with more then 2 players, the starting player will get to draw on their first turn.
+Magic functions as a rules system with which you can play a variety of games, much like how a ball can be used many different ways. These are called formats, and each one helps to define how the game is played more specifically. Unless otherwise noted, players should start the game with 20 life. Most formats have no maximum deck size. In any format with more then 2 players, the starting player will get to draw on their first turn.
 
 #### Constructed
-In constucted formats, you bring your own deck of at least 60 cards. You are limited to 4 copies of any card, but may use an unlimited number of basic lands. The cards you may use in constructed formats are often defined by when they were printed, and may have a list of banned cards. Standard encompasses cards printed in the last 2-3 years, whereas Pioneer allows cards printed since 2012. Older formats include Modern (2003 onward), and Legacy (All cards since the game's inception in 1993).
+In constructed formats, you bring your own deck of at least 60 cards. You are limited to 4 copies of any card, but may use an unlimited number of basic lands. The cards you may use in constructed formats are often defined by when they were printed, and may have a list of banned cards. Standard encompasses cards printed in the last 2-3 years, whereas Pioneer allows cards printed since 2012. Older formats include Modern (2003 onward), and Legacy (All cards since the game's inception in 1993).
 
 #### Limited
 In limited formats, you open booster packs of cards to build your deck on the fly. In all limited formats, your deck must contain at least 40 cards, and you may add an unlimited number of basic lands. This is no limit to the number of copies of a card you can play.
@@ -227,9 +219,7 @@ Commander is a casual, multiplayer format. A deck consists of a legendary creatu
 
 ![]()
 
-
 <img src="https://cards.scryfall.io/large/front/d/6/d607b003-6b48-429c-a7fd-45b8dd1bb4f9.jpg?1665822343" alt="Aesi, Tyrant of Gyer Strait" style="width:325px;"/>
-
 
 <img src="https://cards.scryfall.io/large/front/0/e/0e259db1-14db-4314-998c-6a076a28d8cb.jpg?1691056044" alt="Kenrith, the Returned King" style="width:325px;"/>
 
@@ -237,6 +227,8 @@ In addition to the unique deck construction rules, commander makes some changes 
 
 ### Other notes for playing the game
 
+- Rarity
+- Mulligans
 
 ## Important terms
 - The stack
@@ -263,7 +255,6 @@ In addition to the unique deck construction rules, commander makes some changes 
 - Hexproof
 - Ward
 
-
 ## Other Notes
 
 <!--- 
@@ -278,8 +269,7 @@ TODO:
 - add mana symbols to colors
 - List of important terms
 - Clean up Loyalty abilities
-- Write up about target audiance 
-
+- Write up about target audience 
 
 
 <!--- 
@@ -289,3 +279,5 @@ J+J Notes
   - Maybe turn order first before card parts?
 
 --->
+
+
