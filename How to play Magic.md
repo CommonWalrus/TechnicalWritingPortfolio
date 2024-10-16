@@ -66,6 +66,7 @@ There are 7 types of cards you can expect to see in a typical game of Magic:
 - Sorceries
 - Instants
 
+Cards that remain on the battlefield after being played or cast are known as **Permanents**.
 
 #### Lands
 Lands are the backbone for any deck of Magic. As discussed above, cards cost mana to cast. Lands can be used to create mana to pay for spells. Tapping a land usually creates 1 mana, but the type of mana can be different depending on the land. There are 5 basic land types:
@@ -155,7 +156,7 @@ During your untap step, you untap all of your **permanents**. Players cannot cas
 Your upkeep step is the first time you can take actions in a turn. Either player may cast instants or activate **abilities** before the step ends. The player whose turn it is has the first opportunity to take any of these actions.
 
 ##### Draw step
-This step starts with the active player drawing a card. Then, there is a similar window for players to cast spells and activate abilities like in the upkeep step. If you are going first, you skip your first draw step in your first turn.
+This step starts with the player whos turn it is drawing a card. Then, there is a similar window for players to cast spells and activate abilities like in the upkeep step. If you have the advantage of going first, you skip your draw step in your first turn.
 
 #### Main phase
 The main phase is where the bulk of spells are cast. You can cast any type of spell during your main phase, as well as play your land for the turn. There is an additonal main phase following the combat phase, where you can play more spells after combat.
@@ -167,25 +168,27 @@ The combat phase has five steps: beginning of combat, declare attackers, declare
 The beginning of combat step is the first time you can take actions during this phase. "At the beginning of combat on your turn" abilities happen here. Like the upkeep step, you can respond to those abilities and either player may cast instants or activate other abilties before the step ends.
 
 ##### Declare attackers step
-This step starts with you declaring which creatures are attacking, as well as who or what those creatures are attacking. Each creature can only attack a single opponent or planeswalker an opponent controls. Creatures tap to attack unless they have **vigilence.**  Once attackers are declared, there is another oppertunity for players to cast instants or activate abilities. 
+This step starts with you declaring which of your creatures are attacking, as well as what players or planeswalkers those creatures are attacking. Each creature can only attack a single opponent or planeswalker an opponent controls. Creatures tap to attack unless they have **vigilance.**  Once attackers are declared, there is another oppertunity for players to cast instants or activate abilities. 
 
 ##### Declare blockers step
 The defending player then declares blockers, assigning their creatures to block incoming attackers. You can assign multiple blockers to a single attacker, however the attacker gets to decide the order in which damage is dealt to them. Once blockers are assigned, there is another window for players to react. 
 
 ##### Combat damage step
-Now that you've determinded how everything is attacking and blocking, damage is dealt. Creatures with **first strike** and **double strike** deal their damage first, then damage is dealt by other creatures (and again by creatures with double strike). After each time damage is dealt, there is another oppertunity for players to react.
+Now that you've determined how everything is attacking and blocking, damage is dealt. Creatures with **first strike** and **double strike** deal their damage first, then damage is dealt by other creatures (and again by creatures with double strike). After each time damage is dealt, there is another opportunity for players to react.
 
 ##### End of combat step
-This is a final oppertunity for things to happen that requrie a creature to be in combat. There is another chance for reactions from players before this step ends.
-
+This is a final opportunity for things to happen that require a creature to be in combat. There is another chance for reactions from players before this step ends.
+<!---
+Note about second main phase?
+--->
 #### Ending phase
-Once you are finished with your second main phase, you can pass the turn to the next player. The ending phase has two steps, end and cleanup.
+Once you are finished with your second main phase, you will pass the turn to the next player. The ending phase has two steps, end and cleanup.
 
 ##### End step
 The end step is the last oppertunity for players to cast instants or activate abilities here before the turn passes to the next player.
 
 ##### Cleanup step
-Players cannot abilities activated or cast spells during the cleanup step, much like the upkeep step. During the cleanup step, damage on creatures wears off, and the player whose turn is ending discards cards to their maximum handsize if they are over that limit.
+Players cannot activate abilities or cast spells during the cleanup step, much like the untap step. During the cleanup step, damage on creatures wears off, and the player whose turn is ending discards cards to their maximum hand size, 7 by default, if they are over that limit.
 
 ### Zones
 Throughout the game, some cards may refer to various zones cards can exist in.
@@ -193,7 +196,7 @@ Throughout the game, some cards may refer to various zones cards can exist in.
 use a visual?
 --->
 #### Hand
-Your hand is where you keep the cards you can play. You start the game by drawing 7 cards and may have up to 7 cards in hand. if you have more at the end of your turn, you discard cards until you only have 7. 
+Your hand is where you keep the cards you can play. You start the game with 7 cards in hand. If you have more at the end of your turn, you discard cards until you only have 7. 
 
 #### Battlefield
 The Battlefield is where the bulk of the game occurs. Permanent cards, such as creatures or lands, exist here once they are played. 
@@ -202,19 +205,19 @@ The Battlefield is where the bulk of the game occurs. Permanent cards, such as c
 Whenever a card is discarded, destroyed, or defeated in combat it goes to the graveyard. Some cards can allow you to use cards in your graveyard, such as reanimating creatures or recovering cards for reuse. 
 
 #### Exile
-Exile is the land beyond the graveyard. Cards in exile are usually gone for good or being stored there temporaily by some other ability.
+Exile is the land beyond the graveyard. Cards in exile are usually gone for good or being stored there temporarily by some other ability.
 
 ### Deck construction and game formats
-Magic functions as a rules system with which you can play a variety of games, much like how a ball can be used for both soccer and basketball. These are called formats, and each one helps to define how the games is played more specifically. Unless otherwise noted, players should start the game with 20 life. In any format with more then 2 players, the starting player will get to draw on their first turn.
+Magic functions as a rules system with which you can play a variety of games, much like how a ball can be used many different ways. These are called formats, and each one helps to define how the game is played more specifically. Unless otherwise noted, players should start the game with 20 life. In any format with more then 2 players, the starting player will get to draw on their first turn.
 
 #### Constructed
-In constucted formats, you bring your own deck of at least 60 cards. You are limited to 4 copies of any card, but may use an unlimited number of basic lands. The cards you may use in constructed formats are often defined by when they were printed. Standard encompasses cards printed in the last 2-3 years, wheras Pioneer allows cards printed since 2012. Older formats include Modern (2003 onward), and Legacy (All cards since the games inception in 1994).
+In constucted formats, you bring your own deck of at least 60 cards. You are limited to 4 copies of any card, but may use an unlimited number of basic lands. The cards you may use in constructed formats are often defined by when they were printed, and may have a list of banned cards. Standard encompasses cards printed in the last 2-3 years, whereas Pioneer allows cards printed since 2012. Older formats include Modern (2003 onward), and Legacy (All cards since the game's inception in 1993).
 
 #### Limited
-In limited formats, you open packs of cards to build you deck on the fly. In all limited formats, your deck must contain at least 40 cards, and you may add an unlimited number of basic lands. This is no limit to the number of copies of a card you can play.
+In limited formats, you open booster packs of cards to build your deck on the fly. In all limited formats, your deck must contain at least 40 cards, and you may add an unlimited number of basic lands. This is no limit to the number of copies of a card you can play.
 
 ##### Draft
-In a draft event, you start at a table with several other players (usually 8 players total). Each player is given 3 packs of cards. The draft will start with each player opening their first pack of cards, selecting one card from it, and passing the remaining cards to the player to their left. When they receive a pack of cards from the player to their right, repeating this process until there are no more cards to select. Once the first pack is completed, players will open the second pack, and pass the cards to the right, picking one at a time as before. The third pack goes back to the left. Once all players have completed their selections, they will build their decks using them.
+In a draft event, you start at a table with several other players (usually 8 players total). Each player is given 3 packs of cards. The draft will start with each player opening their first pack of cards, selecting one card from it, and passing the remaining cards to the player to their left. Then they receive a pack of cards from the player to their right, choosing another card, and repeating this process until there are no more cards to select. Once the first pack is completed, players will open the second pack, and pass the cards to the right, picking one at a time as before. The third pack goes back to the left. Once all players have completed their selections, they will build their decks using their chosen cards.
 
 ##### Sealed
 In a sealed event, you start with 6 packs of cards. Open all 6 and build the best deck you can from the contents. 
@@ -230,17 +233,20 @@ Commander is a casual, multiplayer format. A deck consists of a legendary creatu
 
 <img src="https://cards.scryfall.io/large/front/0/e/0e259db1-14db-4314-998c-6a076a28d8cb.jpg?1691056044" alt="Kenrith, the Returned King" style="width:325px;"/>
 
-In addition to the unique deck construction rules, commander makes some changes to how the game is played. Your will commander start the game in the *command zone*, and can be cast while in the command zone. Each time your commander would be sent to the graveyard or be exiled, you may choose to have them return to the command zone. If you do, they will cast 2 more mana to cast for each time they have been returned there. In commander, players will also lose the game if they have been dealt 21 damage by a single commander.
+In addition to the unique deck construction rules, commander makes some changes to how the game is played. Your will commander start the game in the *command zone*, and can be cast while in the command zone. Each time your commander would be sent to the graveyard or be exiled, you may choose to have them return to the command zone. If you do, they will cast 2 more mana to cast for each time they have been returned there. In commander, players start with 40 life, but will also lose the game if they have been dealt 21 damage by a single commander.
 
 ### Other notes for playing the game
 
 
 ## Important terms
-- The Stack
-- Tapping and Tapped
+- The stack
+    - When players cast spells or activate abilities, they are placed on "the stack." While spells are on the stack, other players can respond with instants or abilities of their own. The stack follows a "last-in, first-out" method, so the most recently cast spell or activated ability will resolve or happen first.
+- Tapping and tapped
+    - When 
 - Counter
 - Counters, like +1/+1
 - Token
+- Permanents
 
 ### Creature keywords
 - Flying
