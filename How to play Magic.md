@@ -30,7 +30,7 @@ Green struggles when its titanic creatures are contained
 ## How to play Magic
 
 ### Basics
-In a game of Magic, your goal is to defeat your opponent, usually by reducing their life total to 0. However, defeating your opponent is no easy task, and there are many ways to go about it! Each player should bring a deck that consists of at least 60 cards, ideally in a combination of lands, creatures, and other spells. You use your lands to cast your spells by **tapping** <img src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/b/be/T.svg/revision/latest/scale-to-width-down/15?cb=20160125095850" alt="Tap Symbol" style="width:15px;"/> them to produce mana. Whether or not something is **tapped** in a game of Magic is important, as tapped lands are unable to produce more resources, tapped creatures cannot block, and some abilities require tapping the card to use them. 
+In a game of Magic, your goal is to defeat your opponent, usually by reducing their life total to 0. However, defeating your opponent is no easy task, and there are many ways to go about it! Each player should bring a deck that consists of at least 60 cards, ideally in a combination of lands, creatures, and other spells. You use your lands to cast your spells by **tapping** <img src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/b/be/T.svg/revision/latest/scale-to-width-down/15?cb=20160125095850" alt="Tap Symbol" style="width:15px;"/> them to produce mana. Whether or not something is **tapped** in a game of Magic is important, as tapped lands are unable to produce more resources, tapped creatures cannot block, and some abilities require tapping the card to use them. When something becomes tapped, it should be moved from a vertical orientation to a horizontal one.
 
 <!--- 
 Life total
@@ -64,7 +64,7 @@ There are 7 types of cards you can expect to see in a typical game of Magic:
 - Sorceries
 - Instants
 
-Cards that remain on the battlefield after being played or cast are known as **Permanents**.
+Cards that remain on the battlefield after being played or cast are also referred to as **permanents**.
 
 #### Lands
 Lands are the backbone for any deck of Magic. As discussed above, cards cost mana to cast. Lands can be used to create mana to pay for spells. Tapping a land usually creates 1 mana, but the type of mana can be different depending on the land. There are 5 basic land types:
@@ -125,9 +125,7 @@ Sorceries are spells you can cast during your turn. They can do nearly anything 
 
 <img src="https://cards.scryfall.io/large/front/1/9/1920dae4-fb92-4f19-ae4b-eb3276b8dac7.jpg?1628801663" alt="Counterspell" style="width:325px;"/>
 
-Instants are very similar to sorceries. However, while other spells can only be played one at a time during certain parts of your turn, instants can be played at anytime, including on your opponent's turn. Instants can even counter another spell, stopping it from ever happening!
-
-
+Instants are very similar to sorceries. However, while other spells can only be played one at a time during certain parts of your turn, instants can be played at anytime, including on your opponent's turn. Instants can even **counter** another spell, stopping it from ever happening!
 
 ### Parts of a turn
 A turn of Magic is broken into many parts, called phases and steps. Each of these segments serves a different purpose to allow the game to flow smoothly.
@@ -239,6 +237,11 @@ In addition to the unique deck construction rules, commander makes some changes 
 - Counters, like +1/+1
 - Token
 - Permanents
+- Abilities
+    - Triggered
+    - Activated
+    - Static
+- Color identity
 
 ### Creature keywords
 - Flying
