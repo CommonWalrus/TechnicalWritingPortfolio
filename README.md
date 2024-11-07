@@ -1,5 +1,5 @@
 # TechnicalWritingPortfolio
-This is the technical writing portfolio of Alex Berk. This portfolio is actively in development and will consist of projects I am undertaking to help develop my skills as well as showcasing documents I have created.
+This is the technical writing portfolio of Alex Berk. This portfolio is actively in development and will consist of projects I am undertaking to help develop my skills as well as showcasing documents I have created. Names of products, carriers, and customers have been removed from working documents.
 
 ## Contents
 Phones out of range email
