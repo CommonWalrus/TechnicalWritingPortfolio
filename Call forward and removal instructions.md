@@ -1,4 +1,4 @@
-### How to add or remove call forwards in Coredial (Select Medical and most other customers)
+### How to add or remove call forwards in VoiP Service 1
 1. In the customers tab, locate the site with its identification number or name.
 2. Navigate to services, then phone numbers.
 3. Select the phone number you wish to forward or unforward.
@@ -8,7 +8,7 @@
 
 5. Press save. The changes will normally occur within the next 5 minutes.
 
-### How to add or remove call forwards in Bandwidth (Concentra and USHW)
+### How to add or remove call forwards in VoiP Service 2
 1. From the dashboard, search for the phone number in the box on right.
    
 	a. You can search multiple numbers by putting a space or comma between them.
